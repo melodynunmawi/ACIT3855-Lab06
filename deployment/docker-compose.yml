@@ -30,8 +30,8 @@ services:
     restart: always
     environment:
       MYSQL_DATABASE: 'events'
-      MYSQL_USER: 'root' # Customize as needed
-      MYSQL_PASSWORD: 'password' # Customize as needed
+      #MYSQL_USER: 'root' # Customize as needed
+      #MYSQL_PASSWORD: 'password' # Customize as needed
       MYSQL_ROOT_PASSWORD: 'password' # Customize as needed
     ports:
       - '3306:3306'
