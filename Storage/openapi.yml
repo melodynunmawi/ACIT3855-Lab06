@@ -1,0 +1,102 @@
+openapi: 3.0.0
+info:
+  title: Environmental Control System
+  description: API for tracking and controlling thermostat and lighting systems.
+  version: "1.0.0"
+servers:
+  - url: /
+paths:
+  /thermostat-events:
+    get:
+      summary: Retrieves thermostat events between two timestamps.
+      operationId: app.get_thermostat_events
+      parameters:
+        - name: start_timestamp
+          in: query
+          description: Start timestamp for filtering events.
+          required: true
+          schema:
+            type: string
+        - name: end_timestamp
+          in: query
+          description: End timestamp for filtering events.
+          required: true
+          schema:
+            type: string
+      responses:
+        200:
+          description: An array of thermostat events.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/ThermostatEvent'
+        400:
+          description: Invalid request parameters.
+  /lighting-events:
+    get:
+      summary: Retrieves lighting events between two timestamps.
+      operationId: app.get_lighting_events
+      parameters:
+        - name: start_timestamp
+          in: query
+          description: Start timestamp for filtering events.
+          required: true
+          schema:
+            type: string
+        - name: end_timestamp
+          in: query
+          description: End timestamp for filtering events.
+          required: true
+          schema:
+            type: string
+      responses:
+        200:
+          description: An array of lighting events.
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/LightingEvent'
+        400:
+          description: Invalid request parameters.
+components:
+  schemas:
+    ThermostatEvent:
+      type: object
+      properties:
+        trace_id:
+          type: string
+          format: uuid
+        temperature:
+          type: number
+          format: float
+        status:
+          type: string
+        timestamp:
+          type: string
+      required:
+        - trace_id
+        - temperature
+        - status
+        - timestamp
+    LightingEvent:
+      type: object
+      properties:
+        trace_id:
+          type: string
+          format: uuid
+        intensity:
+          type: number
+          format: float
+        status:
+          type: string
+        timestamp:
+          type: string
+      required:
+        - trace_id
+        - intensity
+        - status
+        - timestamp

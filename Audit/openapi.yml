@@ -1,0 +1,104 @@
+openapi: 3.0.0
+info:
+  title: Audit Service API
+  version: "1.0.0"
+  description: This API provides access to thermostat and lighting events
+  contact:
+    email: your-email@example.com  # Replace with your actual email
+servers:
+  - url: http://localhost:8110/
+    description: Audit Service API endpoint
+paths:
+  /thermostat/{index}:
+    get:
+      summary: Get a thermostat event by index
+      operationId: get_thermostat_event
+      parameters:
+        - in: path
+          name: index
+          required: true
+          schema:
+            type: integer
+            minimum: 0
+          description: The index of the thermostat event in the event store
+      responses:
+        '200':
+          description: Thermostat event data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ThermostatEvent'
+        '404':
+          description: Event not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NotFoundResponse'
+  /lighting/{index}:
+    get:
+      summary: Get a lighting event by index
+      operationId: get_lighting_event
+      parameters:
+        - in: path
+          name: index
+          required: true
+          schema:
+            type: integer
+            minimum: 0
+          description: The index of the lighting event in the event store
+      responses:
+        '200':
+          description: Lighting event data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LightingEvent'
+        '404':
+          description: Event not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NotFoundResponse'
+components:
+  schemas:
+    ThermostatEvent:
+      type: object
+      required:
+        - temperature
+        - status
+        - timestamp
+      properties:
+        temperature:
+          type: number
+          format: float
+          example: 22.5
+        status:
+          type: string
+          example: "ok"
+        timestamp:
+          type: string
+          format: date-time
+          example: "2024-04-07T12:00:00Z"
+    LightingEvent:
+      type: object
+      required:
+        - intensity
+        - status
+        - timestamp
+      properties:
+        intensity:
+          type: integer
+          example: 75
+        status:
+          type: string
+          example: "on"
+        timestamp:
+          type: string
+          format: date-time
+          example: "2024-04-07T12:15:00Z"
+    NotFoundResponse:
+      type: object
+      properties:
+        message:
+          type: string
+          example: "Not Found"

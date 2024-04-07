@@ -1,0 +1,10 @@
+db:
+  user: 'root' 
+  password: ''  
+  hostname: 'acit4850-group10.westus3.cloudapp.azure.com' 
+  port: 3306  
+  db: 'events'  
+kafka:
+  hostname: 'acit4850-group10.westus3.cloudapp.azure.com'
+  port: 9092
+  topic: 'events'

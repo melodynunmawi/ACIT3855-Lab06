@@ -1,0 +1,64 @@
+openapi: 3.0.0
+info:
+  title: SmartHome Energy Management API
+  version: 1.0.0
+servers:
+  - url: /
+    description: SwaggerHub API Auto Mocking
+paths:
+  /submit_thermostat_event:
+    post:
+      summary: Submit Smart Thermostat Event
+      operationId: app.submit_thermostat_event  # Corrected operationId
+      description: "Records events related to changes in the thermostat settings, including temperature adjustments."
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/smarthome_submitthermostatevent_body'
+      responses:
+        "200":
+          description: Successfully recorded smart thermostat event.
+
+  /submit_lighting_event:
+    post:
+      summary: Submit Smart Lighting Event
+      operationId: app.submit_lighting_event  # Corrected operationId
+      description: "Captures events related to the control of smart lighting systems, including changes in light intensity."
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/smarthome_submitlightingevent_body'
+      responses:
+        "200":
+          description: Successfully recorded smart lighting event.
+
+components:
+  schemas:
+    smarthome_submitthermostatevent_body:
+      type: object
+      properties:
+        device_id:
+          type: string
+          format: uuid
+        timestamp:
+          type: string
+        temperature:
+          type: number
+        event_type:
+          type: string
+    smarthome_submitlightingevent_body:
+      type: object
+      properties:
+        device_id:
+          type: string
+          format: uuid
+        timestamp:
+          type: string
+        intensity:
+          type: integer
+        event_type:
+          type: string
+
+     

@@ -1,0 +1,40 @@
+{
+  "num_thermostat": 8,
+  "recent_thermostat": [
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.",
+      "received_timestamp": "2024-02-01 22:48:38.685"
+    },
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.",
+      "received_timestamp": "2024-02-01 22:46:01.069"
+    },
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.",
+      "received_timestamp": "2024-02-01 22:37:04.926"
+    },
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.",
+      "received_timestamp": "2024-02-01 22:35:39.710"
+    },
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.",
+      "received_timestamp": "2024-02-01 22:21:49.360"
+    }
+  ],
+  "num_lighting": 3,
+  "recent_lighting": [
+    {
+      "msg_data": "Patient 123bcit with a heart rate of 100.",
+      "received_timestamp": "2024-02-01 22:04:56.800"
+    },
+    {
+      "msg_data": "Patient 123bcit with a heart rate of 100.",
+      "received_timestamp": "2024-02-01 21:54:49.281"
+    },
+    {
+      "msg_data": "Patient 123bcit with a heart rate of 100.",
+      "received_timestamp": "2024-02-01 21:46:25.115"
+    }
+  ]
+}

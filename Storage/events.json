@@ -1,0 +1,48 @@
+{
+  "num_thermostat": 15,
+  "recent_thermostat": [
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.5.",
+      "received_timestamp": "2024-02-01 21:34:10.576"
+    },
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.5.",
+      "received_timestamp": "2024-02-01 21:34:10.174"
+    },
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.5.",
+      "received_timestamp": "2024-02-01 21:34:09.877"
+    },
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.5.",
+      "received_timestamp": "2024-02-01 21:34:09.539"
+    },
+    {
+      "msg_data": "Patient abc1234 with a BP of 22.5.",
+      "received_timestamp": "2024-02-01 21:34:09.220"
+    }
+  ],
+  "num_lighting": 16,
+  "recent_lighting": [
+    {
+      "msg_data": "Patient 123bcit with a heart rate of 100.",
+      "received_timestamp": "2024-02-01 21:34:10.596"
+    },
+    {
+      "msg_data": "Patient 123bcit with a heart rate of 100.",
+      "received_timestamp": "2024-02-01 21:34:10.191"
+    },
+    {
+      "msg_data": "Patient 123bcit with a heart rate of 100.",
+      "received_timestamp": "2024-02-01 21:34:09.904"
+    },
+    {
+      "msg_data": "Patient 123bcit with a heart rate of 100.",
+      "received_timestamp": "2024-02-01 21:34:09.559"
+    },
+    {
+      "msg_data": "Patient 123bcit with a heart rate of 100.",
+      "received_timestamp": "2024-02-01 21:34:09.237"
+    }
+  ]
+}

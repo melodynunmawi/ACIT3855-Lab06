@@ -1,0 +1,816 @@
+2024-02-09 21:54:47,070 - basicLogger - INFO - Received event thermostat request with a trace id of 9c378c36-b0cf-4884-a7dc-a404c26b616d
+2024-02-09 21:56:01,505 - basicLogger - INFO - Received event thermostat request with a trace id of 62095232-c69e-4518-acd2-8044a9cdd6bb
+2024-02-09 21:57:18,509 - basicLogger - INFO - Received event thermostat request with a trace id of 22fa40ef-d710-489a-a30e-c899b879d16b
+2024-02-09 21:58:13,005 - basicLogger - INFO - Received event thermostat request with a trace id of 50576dfd-81e9-4108-8473-82d9ba955146
+2024-02-09 21:58:15,110 - basicLogger - INFO - Returned event thermostat response (Id: 50576dfd-81e9-4108-8473-82d9ba955146) with status 500
+2024-02-09 22:06:19,604 - basicLogger - INFO - Received event thermostat request with a trace id of de2c0c82-ec2d-40c9-ac16-b48593b00836
+2024-02-09 22:06:21,699 - basicLogger - INFO - Returned event thermostat response (Id: de2c0c82-ec2d-40c9-ac16-b48593b00836) with status 500
+2024-02-09 22:07:20,668 - basicLogger - INFO - Received event thermostat request with a trace id of bf030aca-6bb3-48bd-9397-282c9581fced
+2024-02-09 22:07:22,737 - basicLogger - INFO - Returned event thermostat response (Id: bf030aca-6bb3-48bd-9397-282c9581fced) with status 500
+2024-02-09 22:26:24,344 - basicLogger - INFO - Received event thermostat request with a trace id of 3321fcd9-a0d8-4f74-bd71-0177f10c78eb
+2024-02-09 22:26:29,125 - basicLogger - INFO - Returned event thermostat response (Id: 3321fcd9-a0d8-4f74-bd71-0177f10c78eb) with status 500
+2024-02-09 22:38:17,257 - basicLogger - INFO - Received event thermostat request with a trace id of effe8f63-7901-4438-8a33-783db0aa63d8
+2024-02-09 22:38:19,460 - basicLogger - INFO - Returned event thermostat response (Id: effe8f63-7901-4438-8a33-783db0aa63d8) with status 500
+2024-02-09 22:41:20,938 - basicLogger - INFO - Received event thermostat request with a trace id of 5e208e4c-06f4-4993-940f-c8bdf25bef50
+2024-02-09 22:41:23,027 - basicLogger - INFO - Returned event thermostat response (Id: 5e208e4c-06f4-4993-940f-c8bdf25bef50) with status 500
+2024-02-09 22:42:14,416 - basicLogger - INFO - Received event thermostat request with a trace id of 8b19b8a5-360e-41d0-aa23-bca9c74f8ecb
+2024-02-09 22:42:16,499 - basicLogger - INFO - Returned event thermostat response (Id: 8b19b8a5-360e-41d0-aa23-bca9c74f8ecb) with status 201
+2024-02-09 22:42:40,237 - basicLogger - INFO - Received event lighting request with a trace id of 068df46e-6dab-42a4-8ea6-e82c1937741c
+2024-02-09 22:42:42,285 - basicLogger - INFO - Returned event lighting response (Id: 068df46e-6dab-42a4-8ea6-e82c1937741c) with status 201
+2024-02-09 22:45:45,445 - basicLogger - INFO - Received event lighting request with a trace id of 137fd5f4-e067-441d-8854-2e01ea8a354b
+2024-02-09 22:45:45,445 - basicLogger - INFO - Received event lighting request with a trace id of 635ae96b-6d4b-4a97-8737-fe732bd18ec2
+2024-02-09 22:45:45,452 - basicLogger - INFO - Received event lighting request with a trace id of 29accaba-0140-4d69-9ba7-f607eb2f4953
+2024-02-09 22:45:45,653 - basicLogger - INFO - Received event lighting request with a trace id of ba01d280-998c-4ac7-a428-37c7398e6ce2
+2024-02-09 22:45:45,851 - basicLogger - INFO - Received event lighting request with a trace id of b69452bc-ecbb-4aee-8f07-9f21afc18b47
+2024-02-09 22:45:47,523 - basicLogger - INFO - Returned event lighting response (Id: 137fd5f4-e067-441d-8854-2e01ea8a354b) with status 201
+2024-02-09 22:45:47,525 - basicLogger - INFO - Returned event lighting response (Id: 29accaba-0140-4d69-9ba7-f607eb2f4953) with status 201
+2024-02-09 22:45:47,529 - basicLogger - INFO - Returned event lighting response (Id: 635ae96b-6d4b-4a97-8737-fe732bd18ec2) with status 201
+2024-02-09 22:45:47,547 - basicLogger - INFO - Received event thermostat request with a trace id of 2f204f6c-6bbe-438b-840e-d3208ed637b3
+2024-02-09 22:45:47,547 - basicLogger - INFO - Received event thermostat request with a trace id of 4f3c1ce0-7881-4bdd-a3e1-d150e89f4a4d
+2024-02-09 22:45:47,547 - basicLogger - INFO - Received event thermostat request with a trace id of fd2f8d34-71fb-428d-ab30-00aae9b4972d
+2024-02-09 22:45:47,703 - basicLogger - INFO - Returned event lighting response (Id: ba01d280-998c-4ac7-a428-37c7398e6ce2) with status 201
+2024-02-09 22:45:47,708 - basicLogger - INFO - Received event thermostat request with a trace id of eede8273-7447-4179-9ed5-ca09fedcd6a4
+2024-02-09 22:45:47,905 - basicLogger - INFO - Returned event lighting response (Id: b69452bc-ecbb-4aee-8f07-9f21afc18b47) with status 201
+2024-02-09 22:45:47,909 - basicLogger - INFO - Received event thermostat request with a trace id of cb899905-5654-4583-b84e-16e8b8ffd7f4
+2024-02-09 22:45:49,586 - basicLogger - INFO - Returned event thermostat response (Id: 4f3c1ce0-7881-4bdd-a3e1-d150e89f4a4d) with status 201
+2024-02-09 22:45:49,587 - basicLogger - INFO - Returned event thermostat response (Id: 2f204f6c-6bbe-438b-840e-d3208ed637b3) with status 201
+2024-02-09 22:45:49,588 - basicLogger - INFO - Returned event thermostat response (Id: fd2f8d34-71fb-428d-ab30-00aae9b4972d) with status 201
+2024-02-09 22:45:49,593 - basicLogger - INFO - Received event lighting request with a trace id of 3fe3ffb1-417f-45ac-8ab9-46f6b9b9901b
+2024-02-09 22:45:49,593 - basicLogger - INFO - Received event lighting request with a trace id of a2774c7e-c0a3-4d21-a313-b6bc0664dba4
+2024-02-09 22:45:49,593 - basicLogger - INFO - Received event lighting request with a trace id of d8acc3f8-7524-4ea4-bd1f-abc8035a5150
+2024-02-09 22:45:49,744 - basicLogger - INFO - Returned event thermostat response (Id: eede8273-7447-4179-9ed5-ca09fedcd6a4) with status 201
+2024-02-09 22:45:49,748 - basicLogger - INFO - Received event lighting request with a trace id of 6b90e2c2-c0de-448d-813d-ac33a19622e8
+2024-02-09 22:45:49,956 - basicLogger - INFO - Returned event thermostat response (Id: cb899905-5654-4583-b84e-16e8b8ffd7f4) with status 201
+2024-02-09 22:45:49,961 - basicLogger - INFO - Received event lighting request with a trace id of ca3b1f25-8f49-44e5-a834-c1762d23c8e0
+2024-02-09 22:45:51,666 - basicLogger - INFO - Returned event lighting response (Id: 3fe3ffb1-417f-45ac-8ab9-46f6b9b9901b) with status 201
+2024-02-09 22:45:51,668 - basicLogger - INFO - Returned event lighting response (Id: a2774c7e-c0a3-4d21-a313-b6bc0664dba4) with status 201
+2024-02-09 22:45:51,669 - basicLogger - INFO - Returned event lighting response (Id: d8acc3f8-7524-4ea4-bd1f-abc8035a5150) with status 201
+2024-02-09 22:45:51,681 - basicLogger - INFO - Received event thermostat request with a trace id of ab07f5e3-24a6-4272-87b5-58c2396a602b
+2024-02-09 22:45:51,681 - basicLogger - INFO - Received event thermostat request with a trace id of 768e3ef8-b3b2-435e-9dd5-6ddf18cd063e
+2024-02-09 22:45:51,682 - basicLogger - INFO - Received event thermostat request with a trace id of 136e417b-2ad4-4d5a-9ca9-d29c4e7463cf
+2024-02-09 22:45:51,814 - basicLogger - INFO - Returned event lighting response (Id: 6b90e2c2-c0de-448d-813d-ac33a19622e8) with status 201
+2024-02-09 22:45:51,818 - basicLogger - INFO - Received event thermostat request with a trace id of 961597bf-40b0-482c-b703-aa3a7a615172
+2024-02-09 22:45:52,014 - basicLogger - INFO - Returned event lighting response (Id: ca3b1f25-8f49-44e5-a834-c1762d23c8e0) with status 201
+2024-02-09 22:45:52,018 - basicLogger - INFO - Received event thermostat request with a trace id of 7e689b9b-dc5a-4819-aab8-e2a12570ac04
+2024-02-09 22:45:53,734 - basicLogger - INFO - Returned event thermostat response (Id: 768e3ef8-b3b2-435e-9dd5-6ddf18cd063e) with status 201
+2024-02-09 22:45:53,735 - basicLogger - INFO - Returned event thermostat response (Id: 136e417b-2ad4-4d5a-9ca9-d29c4e7463cf) with status 201
+2024-02-09 22:45:53,736 - basicLogger - INFO - Returned event thermostat response (Id: ab07f5e3-24a6-4272-87b5-58c2396a602b) with status 201
+2024-02-09 22:45:53,741 - basicLogger - INFO - Received event lighting request with a trace id of f09542be-4468-4cd9-945f-1276c12cd8f2
+2024-02-09 22:45:53,742 - basicLogger - INFO - Received event lighting request with a trace id of 4fdf5d5c-ca02-4066-a767-9aeb8f126414
+2024-02-09 22:45:53,743 - basicLogger - INFO - Received event lighting request with a trace id of b9677c44-c966-48be-8d99-bf6fbdbd1e3c
+2024-02-09 22:45:53,864 - basicLogger - INFO - Returned event thermostat response (Id: 961597bf-40b0-482c-b703-aa3a7a615172) with status 201
+2024-02-09 22:45:53,868 - basicLogger - INFO - Received event lighting request with a trace id of 126b6925-02c1-45a6-a4ac-156ba7932d1d
+2024-02-09 22:45:54,064 - basicLogger - INFO - Returned event thermostat response (Id: 7e689b9b-dc5a-4819-aab8-e2a12570ac04) with status 201
+2024-02-09 22:45:54,068 - basicLogger - INFO - Received event lighting request with a trace id of d4b4a8ce-cbf6-4cac-b93c-022664198e79
+2024-02-09 22:45:55,806 - basicLogger - INFO - Returned event lighting response (Id: f09542be-4468-4cd9-945f-1276c12cd8f2) with status 201
+2024-02-09 22:45:55,812 - basicLogger - INFO - Returned event lighting response (Id: b9677c44-c966-48be-8d99-bf6fbdbd1e3c) with status 201
+2024-02-09 22:45:55,813 - basicLogger - INFO - Returned event lighting response (Id: 4fdf5d5c-ca02-4066-a767-9aeb8f126414) with status 201
+2024-02-09 22:45:55,813 - basicLogger - INFO - Received event thermostat request with a trace id of bdedd9e3-164a-4147-9422-b9761450eb5a
+2024-02-09 22:45:55,820 - basicLogger - INFO - Received event thermostat request with a trace id of cd8eb1bb-09d4-4fbe-bb61-9aaf32a2e0eb
+2024-02-09 22:45:55,821 - basicLogger - INFO - Received event thermostat request with a trace id of 73cf8277-782f-4505-81b1-0c1377eab2b9
+2024-02-09 22:45:55,917 - basicLogger - INFO - Returned event lighting response (Id: 126b6925-02c1-45a6-a4ac-156ba7932d1d) with status 201
+2024-02-09 22:45:55,921 - basicLogger - INFO - Received event thermostat request with a trace id of 0e5f1a24-cb51-4877-989a-52d7bce4af1e
+2024-02-09 22:45:56,104 - basicLogger - INFO - Returned event lighting response (Id: d4b4a8ce-cbf6-4cac-b93c-022664198e79) with status 201
+2024-02-09 22:45:56,108 - basicLogger - INFO - Received event thermostat request with a trace id of 5119cbc8-7cdf-4b2c-b679-ce67cceb728c
+2024-02-09 22:45:57,881 - basicLogger - INFO - Returned event thermostat response (Id: bdedd9e3-164a-4147-9422-b9761450eb5a) with status 201
+2024-02-09 22:45:57,885 - basicLogger - INFO - Received event lighting request with a trace id of 1e158444-61a5-46bf-b3c9-9c7fce19e7a4
+2024-02-09 22:45:57,885 - basicLogger - INFO - Returned event thermostat response (Id: cd8eb1bb-09d4-4fbe-bb61-9aaf32a2e0eb) with status 201
+2024-02-09 22:45:57,885 - basicLogger - INFO - Returned event thermostat response (Id: 73cf8277-782f-4505-81b1-0c1377eab2b9) with status 201
+2024-02-09 22:45:57,891 - basicLogger - INFO - Received event lighting request with a trace id of 43e39782-3ad6-45d5-9fd6-3e77e45eaa55
+2024-02-09 22:45:57,891 - basicLogger - INFO - Received event lighting request with a trace id of 7644b304-e484-4dc7-845a-0861f59710af
+2024-02-09 22:45:57,963 - basicLogger - INFO - Returned event thermostat response (Id: 0e5f1a24-cb51-4877-989a-52d7bce4af1e) with status 201
+2024-02-09 22:45:57,967 - basicLogger - INFO - Received event lighting request with a trace id of cd88fd5a-c298-44a4-bcb4-e35f75499486
+2024-02-09 22:45:58,148 - basicLogger - INFO - Returned event thermostat response (Id: 5119cbc8-7cdf-4b2c-b679-ce67cceb728c) with status 201
+2024-02-09 22:45:58,151 - basicLogger - INFO - Received event lighting request with a trace id of b30e8d6d-b9be-4686-ab3d-bd9d94f9e83e
+2024-02-09 22:45:59,950 - basicLogger - INFO - Returned event lighting response (Id: 1e158444-61a5-46bf-b3c9-9c7fce19e7a4) with status 201
+2024-02-09 22:45:59,953 - basicLogger - INFO - Returned event lighting response (Id: 43e39782-3ad6-45d5-9fd6-3e77e45eaa55) with status 201
+2024-02-09 22:45:59,954 - basicLogger - INFO - Received event thermostat request with a trace id of 63f4f98b-5fdc-4b77-836e-11c025d75f35
+2024-02-09 22:45:59,957 - basicLogger - INFO - Returned event lighting response (Id: 7644b304-e484-4dc7-845a-0861f59710af) with status 201
+2024-02-09 22:45:59,961 - basicLogger - INFO - Received event thermostat request with a trace id of 4ea17aa0-b789-4c5e-afcd-676a72083a95
+2024-02-09 22:45:59,965 - basicLogger - INFO - Received event thermostat request with a trace id of 8df125e2-bbed-48fb-8d34-cd190ef1181d
+2024-02-09 22:46:00,018 - basicLogger - INFO - Returned event lighting response (Id: cd88fd5a-c298-44a4-bcb4-e35f75499486) with status 201
+2024-02-09 22:46:00,023 - basicLogger - INFO - Received event thermostat request with a trace id of 3d681cef-fe03-4857-afd0-d73ccdf07c25
+2024-02-09 22:46:00,191 - basicLogger - INFO - Returned event lighting response (Id: b30e8d6d-b9be-4686-ab3d-bd9d94f9e83e) with status 201
+2024-02-09 22:46:00,195 - basicLogger - INFO - Received event thermostat request with a trace id of 9e82a828-f2ba-46d8-a843-8f4e71f0dfa7
+2024-02-09 22:46:02,016 - basicLogger - INFO - Returned event thermostat response (Id: 4ea17aa0-b789-4c5e-afcd-676a72083a95) with status 201
+2024-02-09 22:46:02,018 - basicLogger - INFO - Returned event thermostat response (Id: 63f4f98b-5fdc-4b77-836e-11c025d75f35) with status 201
+2024-02-09 22:46:02,020 - basicLogger - INFO - Returned event thermostat response (Id: 8df125e2-bbed-48fb-8d34-cd190ef1181d) with status 201
+2024-02-09 22:46:02,026 - basicLogger - INFO - Received event lighting request with a trace id of 90e7cf7a-8b01-4a69-b797-2558316c1f3d
+2024-02-09 22:46:02,026 - basicLogger - INFO - Received event lighting request with a trace id of 233ca321-937b-4970-8758-e69141e32f91
+2024-02-09 22:46:02,031 - basicLogger - INFO - Received event lighting request with a trace id of aa28093d-9c81-4e75-b647-6a844ffeb3ed
+2024-02-09 22:46:02,087 - basicLogger - INFO - Returned event thermostat response (Id: 3d681cef-fe03-4857-afd0-d73ccdf07c25) with status 201
+2024-02-09 22:46:02,090 - basicLogger - INFO - Received event lighting request with a trace id of dcb2f7f9-45b9-4583-96ce-96cb66147f9e
+2024-02-09 22:46:02,243 - basicLogger - INFO - Returned event thermostat response (Id: 9e82a828-f2ba-46d8-a843-8f4e71f0dfa7) with status 201
+2024-02-09 22:46:02,247 - basicLogger - INFO - Received event lighting request with a trace id of 6397eff1-276e-451d-87cf-f9048ccae4fe
+2024-02-09 22:46:04,094 - basicLogger - INFO - Returned event lighting response (Id: 90e7cf7a-8b01-4a69-b797-2558316c1f3d) with status 201
+2024-02-09 22:46:04,095 - basicLogger - INFO - Returned event lighting response (Id: aa28093d-9c81-4e75-b647-6a844ffeb3ed) with status 201
+2024-02-09 22:46:04,096 - basicLogger - INFO - Returned event lighting response (Id: 233ca321-937b-4970-8758-e69141e32f91) with status 201
+2024-02-09 22:46:04,100 - basicLogger - INFO - Received event thermostat request with a trace id of e7ed1ed7-b181-45c2-95b8-7fdcd1371530
+2024-02-09 22:46:04,101 - basicLogger - INFO - Received event thermostat request with a trace id of 2170bbe9-908a-4a9f-9e2f-775187f8ac77
+2024-02-09 22:46:04,103 - basicLogger - INFO - Received event thermostat request with a trace id of 601189fd-c8af-449b-97ed-b0ad8dfbe547
+2024-02-09 22:46:04,171 - basicLogger - INFO - Returned event lighting response (Id: dcb2f7f9-45b9-4583-96ce-96cb66147f9e) with status 201
+2024-02-09 22:46:04,177 - basicLogger - INFO - Received event thermostat request with a trace id of 4c5b3338-eb09-41f1-8679-bdc0f0ae7f45
+2024-02-09 22:46:04,309 - basicLogger - INFO - Returned event lighting response (Id: 6397eff1-276e-451d-87cf-f9048ccae4fe) with status 201
+2024-02-09 22:46:04,312 - basicLogger - INFO - Received event thermostat request with a trace id of 4505dbb6-439d-4b87-8b42-f79217f90ac6
+2024-02-09 22:46:06,158 - basicLogger - INFO - Returned event thermostat response (Id: e7ed1ed7-b181-45c2-95b8-7fdcd1371530) with status 201
+2024-02-09 22:46:06,159 - basicLogger - INFO - Returned event thermostat response (Id: 2170bbe9-908a-4a9f-9e2f-775187f8ac77) with status 201
+2024-02-09 22:46:06,164 - basicLogger - INFO - Received event lighting request with a trace id of 2afd47ab-1336-4fa4-8504-8f23d72d0710
+2024-02-09 22:46:06,165 - basicLogger - INFO - Received event lighting request with a trace id of dab56f38-9431-498f-91e7-480a0cc3e7f0
+2024-02-09 22:46:06,167 - basicLogger - INFO - Returned event thermostat response (Id: 601189fd-c8af-449b-97ed-b0ad8dfbe547) with status 201
+2024-02-09 22:46:06,173 - basicLogger - INFO - Received event lighting request with a trace id of 8a5c1d2c-511f-407e-bb7d-57dacfeee2f7
+2024-02-09 22:46:06,243 - basicLogger - INFO - Returned event thermostat response (Id: 4c5b3338-eb09-41f1-8679-bdc0f0ae7f45) with status 201
+2024-02-09 22:46:06,248 - basicLogger - INFO - Received event lighting request with a trace id of d359bc6b-2cf1-4194-b524-b9276c6a2cc0
+2024-02-09 22:46:06,356 - basicLogger - INFO - Returned event thermostat response (Id: 4505dbb6-439d-4b87-8b42-f79217f90ac6) with status 201
+2024-02-09 22:46:06,360 - basicLogger - INFO - Received event lighting request with a trace id of 17d8d75d-bc9a-4549-9731-2f5ca360b6f5
+2024-02-09 22:46:08,204 - basicLogger - INFO - Returned event lighting response (Id: dab56f38-9431-498f-91e7-480a0cc3e7f0) with status 201
+2024-02-09 22:46:08,205 - basicLogger - INFO - Returned event lighting response (Id: 2afd47ab-1336-4fa4-8504-8f23d72d0710) with status 201
+2024-02-09 22:46:08,211 - basicLogger - INFO - Received event thermostat request with a trace id of 4a12dfe3-e705-407a-9a9b-cdea47e4eca8
+2024-02-09 22:46:08,212 - basicLogger - INFO - Received event thermostat request with a trace id of 1387576e-d781-4875-a18e-baff36a0ee7f
+2024-02-09 22:46:08,214 - basicLogger - INFO - Returned event lighting response (Id: 8a5c1d2c-511f-407e-bb7d-57dacfeee2f7) with status 201
+2024-02-09 22:46:08,220 - basicLogger - INFO - Received event thermostat request with a trace id of 59dd7366-74b8-44ae-8831-fdc0519c14af
+2024-02-09 22:46:08,298 - basicLogger - INFO - Returned event lighting response (Id: d359bc6b-2cf1-4194-b524-b9276c6a2cc0) with status 201
+2024-02-09 22:46:08,303 - basicLogger - INFO - Received event thermostat request with a trace id of ef367221-3f71-44c7-86e8-fa8be779185f
+2024-02-09 22:46:08,424 - basicLogger - INFO - Returned event lighting response (Id: 17d8d75d-bc9a-4549-9731-2f5ca360b6f5) with status 201
+2024-02-09 22:46:08,430 - basicLogger - INFO - Received event thermostat request with a trace id of 8789e98a-3b95-407d-a578-496337fed683
+2024-02-09 22:46:10,269 - basicLogger - INFO - Returned event thermostat response (Id: 1387576e-d781-4875-a18e-baff36a0ee7f) with status 201
+2024-02-09 22:46:10,271 - basicLogger - INFO - Returned event thermostat response (Id: 59dd7366-74b8-44ae-8831-fdc0519c14af) with status 201
+2024-02-09 22:46:10,271 - basicLogger - INFO - Returned event thermostat response (Id: 4a12dfe3-e705-407a-9a9b-cdea47e4eca8) with status 201
+2024-02-09 22:46:10,278 - basicLogger - INFO - Received event lighting request with a trace id of 48691cab-0ea0-44d6-b953-035324bf6f30
+2024-02-09 22:46:10,278 - basicLogger - INFO - Received event lighting request with a trace id of fac1bb96-6360-4f01-870b-a7cf60f8ae8a
+2024-02-09 22:46:10,278 - basicLogger - INFO - Received event lighting request with a trace id of 93ab1e39-f68c-4b59-a76a-6d49856ebd83
+2024-02-09 22:46:10,363 - basicLogger - INFO - Returned event thermostat response (Id: ef367221-3f71-44c7-86e8-fa8be779185f) with status 201
+2024-02-09 22:46:10,368 - basicLogger - INFO - Received event lighting request with a trace id of f16eb96c-344e-43e5-9274-72c424c56629
+2024-02-09 22:46:10,483 - basicLogger - INFO - Returned event thermostat response (Id: 8789e98a-3b95-407d-a578-496337fed683) with status 201
+2024-02-09 22:46:10,487 - basicLogger - INFO - Received event lighting request with a trace id of 77523342-9991-4169-9424-e186ff4c4019
+2024-02-09 22:46:12,332 - basicLogger - INFO - Returned event lighting response (Id: 93ab1e39-f68c-4b59-a76a-6d49856ebd83) with status 201
+2024-02-09 22:46:12,333 - basicLogger - INFO - Returned event lighting response (Id: 48691cab-0ea0-44d6-b953-035324bf6f30) with status 201
+2024-02-09 22:46:12,333 - basicLogger - INFO - Returned event lighting response (Id: fac1bb96-6360-4f01-870b-a7cf60f8ae8a) with status 201
+2024-02-09 22:46:12,339 - basicLogger - INFO - Received event thermostat request with a trace id of 5493e8df-8e52-4eb5-ad4d-a36f8b2503a4
+2024-02-09 22:46:12,339 - basicLogger - INFO - Received event thermostat request with a trace id of aeaf2e65-81b6-4bec-afec-bfcdb2df6d53
+2024-02-09 22:46:12,340 - basicLogger - INFO - Received event thermostat request with a trace id of 65db9d1b-a149-46e7-8012-c4c1052e2b61
+2024-02-09 22:46:12,421 - basicLogger - INFO - Returned event lighting response (Id: f16eb96c-344e-43e5-9274-72c424c56629) with status 201
+2024-02-09 22:46:12,426 - basicLogger - INFO - Received event thermostat request with a trace id of 5ae86a79-6e4d-4e1f-8aa7-1a6ac6cdd77e
+2024-02-09 22:46:12,548 - basicLogger - INFO - Returned event lighting response (Id: 77523342-9991-4169-9424-e186ff4c4019) with status 201
+2024-02-09 22:46:12,553 - basicLogger - INFO - Received event thermostat request with a trace id of 38fdd48c-677e-4286-8a89-aad33b249c63
+2024-02-09 22:46:14,373 - basicLogger - INFO - Returned event thermostat response (Id: 5493e8df-8e52-4eb5-ad4d-a36f8b2503a4) with status 201
+2024-02-09 22:46:14,377 - basicLogger - INFO - Received event lighting request with a trace id of 1c2068ae-3dc7-4615-b6f6-b5441e6ca51d
+2024-02-09 22:46:14,391 - basicLogger - INFO - Returned event thermostat response (Id: aeaf2e65-81b6-4bec-afec-bfcdb2df6d53) with status 201
+2024-02-09 22:46:14,392 - basicLogger - INFO - Returned event thermostat response (Id: 65db9d1b-a149-46e7-8012-c4c1052e2b61) with status 201
+2024-02-09 22:46:14,397 - basicLogger - INFO - Received event lighting request with a trace id of de237908-53ff-4419-9391-24443428cfda
+2024-02-09 22:46:14,398 - basicLogger - INFO - Received event lighting request with a trace id of e4dec9d9-1cac-4d4f-b4ff-454a865acb6d
+2024-02-09 22:46:14,467 - basicLogger - INFO - Returned event thermostat response (Id: 5ae86a79-6e4d-4e1f-8aa7-1a6ac6cdd77e) with status 201
+2024-02-09 22:46:14,471 - basicLogger - INFO - Received event lighting request with a trace id of d2577ec5-d0d1-41a1-a290-8eb15921996e
+2024-02-09 22:46:14,605 - basicLogger - INFO - Returned event thermostat response (Id: 38fdd48c-677e-4286-8a89-aad33b249c63) with status 201
+2024-02-09 22:46:14,609 - basicLogger - INFO - Received event lighting request with a trace id of 3a193ecf-241a-4af4-9e85-f9f340b731c7
+2024-02-09 22:46:16,428 - basicLogger - INFO - Returned event lighting response (Id: 1c2068ae-3dc7-4615-b6f6-b5441e6ca51d) with status 201
+2024-02-09 22:46:16,431 - basicLogger - INFO - Received event thermostat request with a trace id of 0c87b004-b748-4ad8-b75f-906ded56fba7
+2024-02-09 22:46:16,439 - basicLogger - INFO - Returned event lighting response (Id: e4dec9d9-1cac-4d4f-b4ff-454a865acb6d) with status 201
+2024-02-09 22:46:16,440 - basicLogger - INFO - Returned event lighting response (Id: de237908-53ff-4419-9391-24443428cfda) with status 201
+2024-02-09 22:46:16,444 - basicLogger - INFO - Received event thermostat request with a trace id of 012001be-142d-4f0b-b926-5c94dfdba322
+2024-02-09 22:46:16,444 - basicLogger - INFO - Received event thermostat request with a trace id of adef3f63-9d56-4ed2-b257-3db31b6e3fc4
+2024-02-09 22:46:16,517 - basicLogger - INFO - Returned event lighting response (Id: d2577ec5-d0d1-41a1-a290-8eb15921996e) with status 201
+2024-02-09 22:46:16,521 - basicLogger - INFO - Received event thermostat request with a trace id of 9c831610-2e1a-46be-aeaa-3c0ea7517857
+2024-02-09 22:46:16,659 - basicLogger - INFO - Returned event lighting response (Id: 3a193ecf-241a-4af4-9e85-f9f340b731c7) with status 201
+2024-02-09 22:46:16,663 - basicLogger - INFO - Received event thermostat request with a trace id of 06bb36a4-ae8b-4614-abd4-017f5da67328
+2024-02-09 22:46:18,485 - basicLogger - INFO - Returned event thermostat response (Id: 0c87b004-b748-4ad8-b75f-906ded56fba7) with status 201
+2024-02-09 22:46:18,490 - basicLogger - INFO - Received event lighting request with a trace id of 9e0b608c-cc84-4e48-90c5-519d0b9aa1a1
+2024-02-09 22:46:18,495 - basicLogger - INFO - Returned event thermostat response (Id: 012001be-142d-4f0b-b926-5c94dfdba322) with status 201
+2024-02-09 22:46:18,496 - basicLogger - INFO - Returned event thermostat response (Id: adef3f63-9d56-4ed2-b257-3db31b6e3fc4) with status 201
+2024-02-09 22:46:18,501 - basicLogger - INFO - Received event lighting request with a trace id of 8eccc768-b159-47db-aa98-bb8d7a110dae
+2024-02-09 22:46:18,503 - basicLogger - INFO - Received event lighting request with a trace id of d82b9cd9-c666-42c6-b0f5-37275dcc058f
+2024-02-09 22:46:18,572 - basicLogger - INFO - Returned event thermostat response (Id: 9c831610-2e1a-46be-aeaa-3c0ea7517857) with status 201
+2024-02-09 22:46:18,576 - basicLogger - INFO - Received event lighting request with a trace id of 7b804d04-3fe9-4d66-88ff-1579b4f91672
+2024-02-09 22:46:18,725 - basicLogger - INFO - Returned event thermostat response (Id: 06bb36a4-ae8b-4614-abd4-017f5da67328) with status 201
+2024-02-09 22:46:18,729 - basicLogger - INFO - Received event lighting request with a trace id of 8868d7a7-d229-4bc6-a673-7600a36f2a85
+2024-02-09 22:46:20,556 - basicLogger - INFO - Returned event lighting response (Id: d82b9cd9-c666-42c6-b0f5-37275dcc058f) with status 201
+2024-02-09 22:46:20,557 - basicLogger - INFO - Returned event lighting response (Id: 8eccc768-b159-47db-aa98-bb8d7a110dae) with status 201
+2024-02-09 22:46:20,557 - basicLogger - INFO - Returned event lighting response (Id: 9e0b608c-cc84-4e48-90c5-519d0b9aa1a1) with status 201
+2024-02-09 22:46:20,563 - basicLogger - INFO - Received event thermostat request with a trace id of c4d1894a-69ac-4cf0-9840-824196a44cde
+2024-02-09 22:46:20,563 - basicLogger - INFO - Received event thermostat request with a trace id of bf19cf19-560c-4e0b-a5da-2ccd8739d1ee
+2024-02-09 22:46:20,563 - basicLogger - INFO - Received event thermostat request with a trace id of b630d952-eef6-4645-9e0e-7411fce2cc59
+2024-02-09 22:46:20,611 - basicLogger - INFO - Returned event lighting response (Id: 7b804d04-3fe9-4d66-88ff-1579b4f91672) with status 201
+2024-02-09 22:46:20,614 - basicLogger - INFO - Received event thermostat request with a trace id of d30a7a5c-cc06-4052-a0ea-e5c4128d7f82
+2024-02-09 22:46:20,800 - basicLogger - INFO - Returned event lighting response (Id: 8868d7a7-d229-4bc6-a673-7600a36f2a85) with status 201
+2024-02-09 22:46:20,803 - basicLogger - INFO - Received event thermostat request with a trace id of e8c105d7-1487-43c1-ab1e-fd1baa4958dc
+2024-02-09 22:46:22,606 - basicLogger - INFO - Returned event thermostat response (Id: bf19cf19-560c-4e0b-a5da-2ccd8739d1ee) with status 201
+2024-02-09 22:46:22,611 - basicLogger - INFO - Received event lighting request with a trace id of bc4a9f7d-04a4-42f8-81e3-2b2adb67eafb
+2024-02-09 22:46:22,614 - basicLogger - INFO - Returned event thermostat response (Id: c4d1894a-69ac-4cf0-9840-824196a44cde) with status 201
+2024-02-09 22:46:22,615 - basicLogger - INFO - Returned event thermostat response (Id: b630d952-eef6-4645-9e0e-7411fce2cc59) with status 201
+2024-02-09 22:46:22,621 - basicLogger - INFO - Received event lighting request with a trace id of f358bfc2-cc6d-476f-b7e0-6fed11bd59c2
+2024-02-09 22:46:22,621 - basicLogger - INFO - Received event lighting request with a trace id of f62d6ce0-539b-46ef-a819-1b305c180ccd
+2024-02-09 22:46:22,658 - basicLogger - INFO - Returned event thermostat response (Id: d30a7a5c-cc06-4052-a0ea-e5c4128d7f82) with status 201
+2024-02-09 22:46:22,662 - basicLogger - INFO - Received event lighting request with a trace id of ceedcbfa-c400-433b-8ffa-50ad7c5be790
+2024-02-09 22:46:22,860 - basicLogger - INFO - Returned event thermostat response (Id: e8c105d7-1487-43c1-ab1e-fd1baa4958dc) with status 201
+2024-02-09 22:46:22,865 - basicLogger - INFO - Received event lighting request with a trace id of 93e8340c-e1ab-43ea-a8f3-3f5e1ff34f42
+2024-02-09 22:46:24,662 - basicLogger - INFO - Returned event lighting response (Id: bc4a9f7d-04a4-42f8-81e3-2b2adb67eafb) with status 201
+2024-02-09 22:46:24,666 - basicLogger - INFO - Received event thermostat request with a trace id of 77b16ead-0c56-4e68-8460-7e4666abba8c
+2024-02-09 22:46:24,672 - basicLogger - INFO - Returned event lighting response (Id: f62d6ce0-539b-46ef-a819-1b305c180ccd) with status 201
+2024-02-09 22:46:24,673 - basicLogger - INFO - Returned event lighting response (Id: f358bfc2-cc6d-476f-b7e0-6fed11bd59c2) with status 201
+2024-02-09 22:46:24,677 - basicLogger - INFO - Received event thermostat request with a trace id of efc58de5-1344-4955-989e-83d7ee991739
+2024-02-09 22:46:24,677 - basicLogger - INFO - Received event thermostat request with a trace id of d31906cc-63b5-4b0d-87fc-bb7985909bf5
+2024-02-09 22:46:24,698 - basicLogger - INFO - Returned event lighting response (Id: ceedcbfa-c400-433b-8ffa-50ad7c5be790) with status 201
+2024-02-09 22:46:24,702 - basicLogger - INFO - Received event thermostat request with a trace id of 704c1af6-dd06-4109-9ad9-0bfe4f45aba3
+2024-02-09 22:46:24,932 - basicLogger - INFO - Returned event lighting response (Id: 93e8340c-e1ab-43ea-a8f3-3f5e1ff34f42) with status 201
+2024-02-09 22:46:24,936 - basicLogger - INFO - Received event thermostat request with a trace id of 759c5fd2-75cc-4c91-adba-d24c3a323ab9
+2024-02-09 22:46:26,728 - basicLogger - INFO - Returned event thermostat response (Id: 77b16ead-0c56-4e68-8460-7e4666abba8c) with status 201
+2024-02-09 22:46:26,737 - basicLogger - INFO - Returned event thermostat response (Id: d31906cc-63b5-4b0d-87fc-bb7985909bf5) with status 201
+2024-02-09 22:46:26,738 - basicLogger - INFO - Returned event thermostat response (Id: efc58de5-1344-4955-989e-83d7ee991739) with status 201
+2024-02-09 22:46:26,750 - basicLogger - INFO - Returned event thermostat response (Id: 704c1af6-dd06-4109-9ad9-0bfe4f45aba3) with status 201
+2024-02-09 22:46:26,988 - basicLogger - INFO - Returned event thermostat response (Id: 759c5fd2-75cc-4c91-adba-d24c3a323ab9) with status 201
+2024-02-14 16:57:51,681 - basicLogger - INFO - Received event lighting request with a trace id of c93d137e-9ce7-4907-bd12-06f7dc43883d
+2024-02-14 16:57:54,565 - basicLogger - INFO - Returned event lighting response (Id: c93d137e-9ce7-4907-bd12-06f7dc43883d) with status 500
+2024-02-14 16:58:49,878 - basicLogger - INFO - Received event lighting request with a trace id of f6326bdc-c235-47e8-80fb-dd739160ec27
+2024-02-14 16:58:52,183 - basicLogger - INFO - Returned event lighting response (Id: f6326bdc-c235-47e8-80fb-dd739160ec27) with status 201
+2024-02-14 17:12:20,043 - basicLogger - INFO - Received event lighting request with a trace id of 5eb2862e-811c-4604-b487-199892dad884
+2024-02-14 17:12:22,172 - basicLogger - INFO - Returned event lighting response (Id: 5eb2862e-811c-4604-b487-199892dad884) with status 201
+2024-02-14 17:13:06,938 - basicLogger - INFO - Received event lighting request with a trace id of 5dd56104-b80f-471f-89fe-c7d3a2542a57
+2024-02-14 17:13:09,031 - basicLogger - INFO - Returned event lighting response (Id: 5dd56104-b80f-471f-89fe-c7d3a2542a57) with status 201
+2024-02-14 17:24:38,924 - basicLogger - INFO - Received event thermostat request with a trace id of a981eb6d-f4ea-4053-a69d-ef21597b1f63
+2024-02-14 17:25:03,478 - basicLogger - INFO - Received event thermostat request with a trace id of 353afcc6-40bc-4eb8-99aa-ccb62bc13cfd
+2024-02-14 17:25:05,630 - basicLogger - INFO - Returned event thermostat response (Id: 353afcc6-40bc-4eb8-99aa-ccb62bc13cfd) with status 201
+2024-02-14 17:25:15,353 - basicLogger - INFO - Received event thermostat request with a trace id of ca751d73-c4f8-4b74-8cbc-30e7b5a9074d
+2024-02-14 17:25:17,423 - basicLogger - INFO - Returned event thermostat response (Id: ca751d73-c4f8-4b74-8cbc-30e7b5a9074d) with status 201
+2024-02-14 17:31:13,730 - basicLogger - INFO - Received event thermostat request with a trace id of aff8c658-1521-43cb-8b75-d6e5a0ae5e40
+2024-02-14 17:31:15,821 - basicLogger - INFO - Returned event thermostat response (Id: aff8c658-1521-43cb-8b75-d6e5a0ae5e40) with status 201
+2024-02-14 17:31:20,815 - basicLogger - INFO - Received event lighting request with a trace id of 12ea34fb-af9d-476d-8b33-c4d3cf8b68d4
+2024-02-14 17:31:22,901 - basicLogger - INFO - Returned event lighting response (Id: 12ea34fb-af9d-476d-8b33-c4d3cf8b68d4) with status 201
+2024-02-14 17:31:24,946 - basicLogger - INFO - Received event thermostat request with a trace id of a4a53331-6f05-4a09-8dfe-ef6210d59dd6
+2024-02-14 17:31:27,001 - basicLogger - INFO - Returned event thermostat response (Id: a4a53331-6f05-4a09-8dfe-ef6210d59dd6) with status 201
+2024-02-14 17:39:47,814 - basicLogger - INFO - Received event thermostat request with a trace id of ca5f7316-2e50-4f73-8254-67661ce8f70d
+2024-02-14 17:39:49,894 - basicLogger - INFO - Returned event thermostat response (Id: ca5f7316-2e50-4f73-8254-67661ce8f70d) with status 201
+2024-02-14 17:39:53,462 - basicLogger - INFO - Received event lighting request with a trace id of 8a45b83c-bc87-4e86-9df8-e96a3ded2bbd
+2024-02-14 17:39:55,547 - basicLogger - INFO - Returned event lighting response (Id: 8a45b83c-bc87-4e86-9df8-e96a3ded2bbd) with status 201
+2024-02-14 21:46:55,171 - basicLogger - INFO - Received event lighting request with a trace id of 242188e5-6222-49bc-a7a8-7699f6a7e360
+2024-02-14 21:46:57,354 - basicLogger - INFO - Returned event lighting response (Id: 242188e5-6222-49bc-a7a8-7699f6a7e360) with status 201
+2024-02-14 21:47:04,254 - basicLogger - INFO - Received event thermostat request with a trace id of 52bd3a0b-fb3d-4f67-8398-0197e9363561
+2024-02-14 21:47:06,322 - basicLogger - INFO - Returned event thermostat response (Id: 52bd3a0b-fb3d-4f67-8398-0197e9363561) with status 201
+2024-02-14 21:48:01,082 - basicLogger - INFO - Received event thermostat request with a trace id of 7b0b77e8-6c7f-45d0-8185-7d6806019436
+2024-02-14 21:48:03,124 - basicLogger - INFO - Returned event thermostat response (Id: 7b0b77e8-6c7f-45d0-8185-7d6806019436) with status 201
+2024-02-14 21:48:08,743 - basicLogger - INFO - Received event thermostat request with a trace id of c9ab09ae-82bf-4863-8cd1-898446567330
+2024-02-14 21:48:10,800 - basicLogger - INFO - Returned event thermostat response (Id: c9ab09ae-82bf-4863-8cd1-898446567330) with status 201
+2024-02-14 21:56:03,944 - basicLogger - INFO - Received event thermostat request with a trace id of f19fe8b9-bdc2-4686-85b9-f1600c225135
+2024-02-14 21:56:06,011 - basicLogger - INFO - Returned event thermostat response (Id: f19fe8b9-bdc2-4686-85b9-f1600c225135) with status 201
+2024-02-14 21:56:09,159 - basicLogger - INFO - Received event lighting request with a trace id of 772dc913-ffa5-49a1-9aae-9e50b7b08acb
+2024-02-14 21:56:11,212 - basicLogger - INFO - Returned event lighting response (Id: 772dc913-ffa5-49a1-9aae-9e50b7b08acb) with status 201
+2024-02-14 21:56:50,734 - basicLogger - INFO - Received event lighting request with a trace id of 1b3dba07-6a60-4f51-96f0-9b59e3199709
+2024-02-14 21:56:52,804 - basicLogger - INFO - Returned event lighting response (Id: 1b3dba07-6a60-4f51-96f0-9b59e3199709) with status 201
+2024-02-14 21:57:00,802 - basicLogger - INFO - Received event lighting request with a trace id of 6c1c59c7-a308-425f-bb53-b0fc8846439d
+2024-02-14 21:57:02,875 - basicLogger - INFO - Returned event lighting response (Id: 6c1c59c7-a308-425f-bb53-b0fc8846439d) with status 201
+2024-02-14 21:57:15,801 - basicLogger - INFO - Received event thermostat request with a trace id of 27683d09-ebeb-4c40-9f42-2124d38f2351
+2024-02-14 21:57:17,872 - basicLogger - INFO - Returned event thermostat response (Id: 27683d09-ebeb-4c40-9f42-2124d38f2351) with status 201
+2024-02-14 21:57:19,364 - basicLogger - INFO - Received event thermostat request with a trace id of 0b2f1371-bfe6-4e14-be2e-08229aa4faaa
+2024-02-14 21:57:21,417 - basicLogger - INFO - Returned event thermostat response (Id: 0b2f1371-bfe6-4e14-be2e-08229aa4faaa) with status 201
+2024-02-14 22:26:05,544 - basicLogger - INFO - Received event lighting request with a trace id of 9c43e419-cf6b-427c-a31e-5c5d39566600
+2024-02-14 22:26:05,545 - basicLogger - INFO - Received event lighting request with a trace id of 814d674f-6df9-4536-882f-3f6fb332df15
+2024-02-14 22:26:05,545 - basicLogger - INFO - Received event lighting request with a trace id of 75d7df92-0236-4cde-8c9e-5cb592b29ce5
+2024-02-14 22:26:05,582 - basicLogger - INFO - Received event lighting request with a trace id of 8f002fb0-1355-4bf9-b03a-9bf3f08f9a6a
+2024-02-14 22:26:05,781 - basicLogger - INFO - Received event lighting request with a trace id of 55aab333-858e-49ce-8959-e2615d715da6
+2024-02-14 22:26:07,654 - basicLogger - INFO - Returned event lighting response (Id: 9c43e419-cf6b-427c-a31e-5c5d39566600) with status 201
+2024-02-14 22:26:07,657 - basicLogger - INFO - Returned event lighting response (Id: 8f002fb0-1355-4bf9-b03a-9bf3f08f9a6a) with status 201
+2024-02-14 22:26:07,674 - basicLogger - INFO - Received event thermostat request with a trace id of 1051b3ce-b50d-4f7b-a489-9f45d07b9cb7
+2024-02-14 22:26:07,674 - basicLogger - INFO - Received event thermostat request with a trace id of 7284b9fe-b431-4c96-950f-576c58419fc7
+2024-02-14 22:26:07,681 - basicLogger - INFO - Returned event lighting response (Id: 75d7df92-0236-4cde-8c9e-5cb592b29ce5) with status 201
+2024-02-14 22:26:07,684 - basicLogger - INFO - Returned event lighting response (Id: 814d674f-6df9-4536-882f-3f6fb332df15) with status 201
+2024-02-14 22:26:07,689 - basicLogger - INFO - Received event thermostat request with a trace id of 8eb4d839-45f9-4ab4-9f23-1f5666cd7549
+2024-02-14 22:26:07,691 - basicLogger - INFO - Received event thermostat request with a trace id of d3aad227-7550-4fc2-8a0b-03cd604ed40a
+2024-02-14 22:26:07,836 - basicLogger - INFO - Returned event lighting response (Id: 55aab333-858e-49ce-8959-e2615d715da6) with status 201
+2024-02-14 22:26:07,843 - basicLogger - INFO - Received event thermostat request with a trace id of 249354e2-52aa-46a0-9e9a-3b9afb419986
+2024-02-14 22:26:09,740 - basicLogger - INFO - Returned event thermostat response (Id: 7284b9fe-b431-4c96-950f-576c58419fc7) with status 201
+2024-02-14 22:26:09,741 - basicLogger - INFO - Returned event thermostat response (Id: 1051b3ce-b50d-4f7b-a489-9f45d07b9cb7) with status 201
+2024-02-14 22:26:09,745 - basicLogger - INFO - Returned event thermostat response (Id: 8eb4d839-45f9-4ab4-9f23-1f5666cd7549) with status 201
+2024-02-14 22:26:09,750 - basicLogger - INFO - Received event lighting request with a trace id of baba4081-cc7c-4203-8f1f-e84289e4791b
+2024-02-14 22:26:09,751 - basicLogger - INFO - Received event lighting request with a trace id of d2990d35-08ca-47f1-9ed6-0dcb00a686ea
+2024-02-14 22:26:09,759 - basicLogger - INFO - Received event lighting request with a trace id of c7ef95ed-acb9-4729-bb20-f357a840df48
+2024-02-14 22:26:09,760 - basicLogger - INFO - Returned event thermostat response (Id: d3aad227-7550-4fc2-8a0b-03cd604ed40a) with status 201
+2024-02-14 22:26:09,768 - basicLogger - INFO - Received event lighting request with a trace id of d3815e6c-e58a-4828-9722-79aac4403456
+2024-02-14 22:26:09,904 - basicLogger - INFO - Returned event thermostat response (Id: 249354e2-52aa-46a0-9e9a-3b9afb419986) with status 201
+2024-02-14 22:26:09,912 - basicLogger - INFO - Received event lighting request with a trace id of f70e81e2-aaf2-43d3-8807-1d5aefa2645b
+2024-02-14 22:26:11,803 - basicLogger - INFO - Returned event lighting response (Id: baba4081-cc7c-4203-8f1f-e84289e4791b) with status 201
+2024-02-14 22:26:11,804 - basicLogger - INFO - Returned event lighting response (Id: d2990d35-08ca-47f1-9ed6-0dcb00a686ea) with status 201
+2024-02-14 22:26:11,814 - basicLogger - INFO - Received event thermostat request with a trace id of 9157541d-1863-4bcd-abb3-f695a31f2058
+2024-02-14 22:26:11,815 - basicLogger - INFO - Received event thermostat request with a trace id of f7704ee6-2a70-488a-b33f-e3d61c5f7182
+2024-02-14 22:26:11,816 - basicLogger - INFO - Returned event lighting response (Id: c7ef95ed-acb9-4729-bb20-f357a840df48) with status 201
+2024-02-14 22:26:11,828 - basicLogger - INFO - Received event thermostat request with a trace id of 4579ed4b-d8b6-4ae6-8c16-53113fc19ced
+2024-02-14 22:26:11,833 - basicLogger - INFO - Returned event lighting response (Id: d3815e6c-e58a-4828-9722-79aac4403456) with status 201
+2024-02-14 22:26:11,839 - basicLogger - INFO - Received event thermostat request with a trace id of 6a3a882b-4586-4b3e-9412-7ccad052352a
+2024-02-14 22:26:11,969 - basicLogger - INFO - Returned event lighting response (Id: f70e81e2-aaf2-43d3-8807-1d5aefa2645b) with status 201
+2024-02-14 22:26:11,973 - basicLogger - INFO - Received event thermostat request with a trace id of af90b87d-e993-45c9-a425-f47490696051
+2024-02-14 22:26:13,867 - basicLogger - INFO - Returned event thermostat response (Id: f7704ee6-2a70-488a-b33f-e3d61c5f7182) with status 201
+2024-02-14 22:26:13,868 - basicLogger - INFO - Returned event thermostat response (Id: 4579ed4b-d8b6-4ae6-8c16-53113fc19ced) with status 201
+2024-02-14 22:26:13,869 - basicLogger - INFO - Returned event thermostat response (Id: 9157541d-1863-4bcd-abb3-f695a31f2058) with status 201
+2024-02-14 22:26:13,879 - basicLogger - INFO - Received event lighting request with a trace id of 775e29c4-d345-4b9e-8e34-9de1a5df6b9a
+2024-02-14 22:26:13,881 - basicLogger - INFO - Received event lighting request with a trace id of 1796dc18-6c7a-4142-8d15-eb881b8a772c
+2024-02-14 22:26:13,881 - basicLogger - INFO - Received event lighting request with a trace id of d65f828b-e40f-4954-9bbe-19997c7793e2
+2024-02-14 22:26:13,895 - basicLogger - INFO - Returned event thermostat response (Id: 6a3a882b-4586-4b3e-9412-7ccad052352a) with status 201
+2024-02-14 22:26:13,901 - basicLogger - INFO - Received event lighting request with a trace id of fa87112a-d692-4c7c-991e-bec19960dcd0
+2024-02-14 22:26:14,021 - basicLogger - INFO - Returned event thermostat response (Id: af90b87d-e993-45c9-a425-f47490696051) with status 201
+2024-02-14 22:26:14,028 - basicLogger - INFO - Received event lighting request with a trace id of 394af070-c381-4ea0-b8d1-5919d73ac16d
+2024-02-14 22:26:15,930 - basicLogger - INFO - Returned event lighting response (Id: d65f828b-e40f-4954-9bbe-19997c7793e2) with status 201
+2024-02-14 22:26:15,931 - basicLogger - INFO - Returned event lighting response (Id: 775e29c4-d345-4b9e-8e34-9de1a5df6b9a) with status 201
+2024-02-14 22:26:15,939 - basicLogger - INFO - Received event thermostat request with a trace id of f632ed5c-3508-4984-b61f-fce30442ea34
+2024-02-14 22:26:15,939 - basicLogger - INFO - Received event thermostat request with a trace id of 1333b2c4-7272-48b5-8e54-a7ad268c9b7c
+2024-02-14 22:26:15,944 - basicLogger - INFO - Returned event lighting response (Id: 1796dc18-6c7a-4142-8d15-eb881b8a772c) with status 201
+2024-02-14 22:26:15,946 - basicLogger - INFO - Returned event lighting response (Id: fa87112a-d692-4c7c-991e-bec19960dcd0) with status 201
+2024-02-14 22:26:15,953 - basicLogger - INFO - Received event thermostat request with a trace id of 0323e05f-1f4a-40f7-b870-783866b5b34c
+2024-02-14 22:26:15,953 - basicLogger - INFO - Received event thermostat request with a trace id of ab5b0b31-8b4d-49c1-b31b-952a399bb762
+2024-02-14 22:26:16,065 - basicLogger - INFO - Returned event lighting response (Id: 394af070-c381-4ea0-b8d1-5919d73ac16d) with status 201
+2024-02-14 22:26:16,070 - basicLogger - INFO - Received event thermostat request with a trace id of 5468fe33-58fb-41c5-b3d1-f58842b790c7
+2024-02-14 22:26:18,017 - basicLogger - INFO - Returned event thermostat response (Id: ab5b0b31-8b4d-49c1-b31b-952a399bb762) with status 201
+2024-02-14 22:26:18,019 - basicLogger - INFO - Returned event thermostat response (Id: 1333b2c4-7272-48b5-8e54-a7ad268c9b7c) with status 201
+2024-02-14 22:26:18,020 - basicLogger - INFO - Returned event thermostat response (Id: f632ed5c-3508-4984-b61f-fce30442ea34) with status 201
+2024-02-14 22:26:18,022 - basicLogger - INFO - Returned event thermostat response (Id: 0323e05f-1f4a-40f7-b870-783866b5b34c) with status 201
+2024-02-14 22:26:18,031 - basicLogger - INFO - Received event lighting request with a trace id of 2af37793-960a-4255-8917-13074cd4a45b
+2024-02-14 22:26:18,035 - basicLogger - INFO - Received event lighting request with a trace id of c87dd0c8-460e-460d-a987-c98338206124
+2024-02-14 22:26:18,036 - basicLogger - INFO - Received event lighting request with a trace id of d2edef68-895e-400c-82a3-b7bb6d0c58d5
+2024-02-14 22:26:18,036 - basicLogger - INFO - Received event lighting request with a trace id of 6ffee1de-7e0f-4588-8ed7-e311cb1fe614
+2024-02-14 22:26:18,138 - basicLogger - INFO - Returned event thermostat response (Id: 5468fe33-58fb-41c5-b3d1-f58842b790c7) with status 201
+2024-02-14 22:26:18,142 - basicLogger - INFO - Received event lighting request with a trace id of 726be8d6-3c09-4182-afca-c6027009098a
+2024-02-14 22:26:20,099 - basicLogger - INFO - Returned event lighting response (Id: 2af37793-960a-4255-8917-13074cd4a45b) with status 201
+2024-02-14 22:26:20,104 - basicLogger - INFO - Received event thermostat request with a trace id of 6193e744-0ee9-4258-be77-e83595d18768
+2024-02-14 22:26:20,117 - basicLogger - INFO - Returned event lighting response (Id: c87dd0c8-460e-460d-a987-c98338206124) with status 201
+2024-02-14 22:26:20,119 - basicLogger - INFO - Returned event lighting response (Id: d2edef68-895e-400c-82a3-b7bb6d0c58d5) with status 201
+2024-02-14 22:26:20,122 - basicLogger - INFO - Returned event lighting response (Id: 6ffee1de-7e0f-4588-8ed7-e311cb1fe614) with status 201
+2024-02-14 22:26:20,129 - basicLogger - INFO - Received event thermostat request with a trace id of d535268a-4663-4fe9-b251-f5dab69d9761
+2024-02-14 22:26:20,131 - basicLogger - INFO - Received event thermostat request with a trace id of 985acfb9-c3d5-492a-8821-455500c00798
+2024-02-14 22:26:20,131 - basicLogger - INFO - Received event thermostat request with a trace id of 6a13c17e-a562-4585-abb5-ff0da1165066
+2024-02-14 22:26:20,206 - basicLogger - INFO - Returned event lighting response (Id: 726be8d6-3c09-4182-afca-c6027009098a) with status 201
+2024-02-14 22:26:20,212 - basicLogger - INFO - Received event thermostat request with a trace id of 56f88e75-6b08-410f-b9fa-dfa3bcdebd9f
+2024-02-14 22:26:22,142 - basicLogger - INFO - Returned event thermostat response (Id: 6193e744-0ee9-4258-be77-e83595d18768) with status 201
+2024-02-14 22:26:22,148 - basicLogger - INFO - Received event lighting request with a trace id of 383165a5-fc15-40a3-bf04-06c7e34c598e
+2024-02-14 22:26:22,212 - basicLogger - INFO - Returned event thermostat response (Id: 6a13c17e-a562-4585-abb5-ff0da1165066) with status 201
+2024-02-14 22:26:22,213 - basicLogger - INFO - Returned event thermostat response (Id: 985acfb9-c3d5-492a-8821-455500c00798) with status 201
+2024-02-14 22:26:22,214 - basicLogger - INFO - Returned event thermostat response (Id: d535268a-4663-4fe9-b251-f5dab69d9761) with status 201
+2024-02-14 22:26:22,224 - basicLogger - INFO - Received event lighting request with a trace id of c1242a76-dd9b-4154-a0c2-788347e48e17
+2024-02-14 22:26:22,224 - basicLogger - INFO - Received event lighting request with a trace id of b84c330c-473d-4b97-9321-566be80aa5af
+2024-02-14 22:26:22,224 - basicLogger - INFO - Received event lighting request with a trace id of 267e0cb4-9b7d-4503-9c64-08cc76f5dbe6
+2024-02-14 22:26:22,257 - basicLogger - INFO - Returned event thermostat response (Id: 56f88e75-6b08-410f-b9fa-dfa3bcdebd9f) with status 201
+2024-02-14 22:26:22,263 - basicLogger - INFO - Received event lighting request with a trace id of 1f3f3dec-2a4c-4553-a6a3-b1af907b981b
+2024-02-14 22:26:24,214 - basicLogger - INFO - Returned event lighting response (Id: 383165a5-fc15-40a3-bf04-06c7e34c598e) with status 201
+2024-02-14 22:26:24,219 - basicLogger - INFO - Received event thermostat request with a trace id of 1acd3225-117d-4aa0-86dc-558d0db164c9
+2024-02-14 22:26:24,265 - basicLogger - INFO - Returned event lighting response (Id: c1242a76-dd9b-4154-a0c2-788347e48e17) with status 201
+2024-02-14 22:26:24,271 - basicLogger - INFO - Received event thermostat request with a trace id of 12367f5e-178e-4247-8c33-77fc6d213133
+2024-02-14 22:26:24,284 - basicLogger - INFO - Returned event lighting response (Id: 267e0cb4-9b7d-4503-9c64-08cc76f5dbe6) with status 201
+2024-02-14 22:26:24,285 - basicLogger - INFO - Returned event lighting response (Id: b84c330c-473d-4b97-9321-566be80aa5af) with status 201
+2024-02-14 22:26:24,291 - basicLogger - INFO - Received event thermostat request with a trace id of f535dd19-af7c-4286-bc03-2ba936bbeb10
+2024-02-14 22:26:24,291 - basicLogger - INFO - Received event thermostat request with a trace id of 91883769-374c-499f-b206-d261b9191444
+2024-02-14 22:26:24,313 - basicLogger - INFO - Returned event lighting response (Id: 1f3f3dec-2a4c-4553-a6a3-b1af907b981b) with status 201
+2024-02-14 22:26:24,319 - basicLogger - INFO - Received event thermostat request with a trace id of 411ede09-d59c-4af7-85c6-4aa27aeeeac7
+2024-02-14 22:26:26,282 - basicLogger - INFO - Returned event thermostat response (Id: 1acd3225-117d-4aa0-86dc-558d0db164c9) with status 201
+2024-02-14 22:26:26,288 - basicLogger - INFO - Received event lighting request with a trace id of 522bead9-a967-40f1-8bf3-e3db1d385ea1
+2024-02-14 22:26:26,313 - basicLogger - INFO - Returned event thermostat response (Id: 12367f5e-178e-4247-8c33-77fc6d213133) with status 201
+2024-02-14 22:26:26,318 - basicLogger - INFO - Received event lighting request with a trace id of ae2e37ce-ae23-45a9-84c6-3235fcc16fa8
+2024-02-14 22:26:26,357 - basicLogger - INFO - Returned event thermostat response (Id: 91883769-374c-499f-b206-d261b9191444) with status 201
+2024-02-14 22:26:26,360 - basicLogger - INFO - Returned event thermostat response (Id: f535dd19-af7c-4286-bc03-2ba936bbeb10) with status 201
+2024-02-14 22:26:26,367 - basicLogger - INFO - Returned event thermostat response (Id: 411ede09-d59c-4af7-85c6-4aa27aeeeac7) with status 201
+2024-02-14 22:26:26,380 - basicLogger - INFO - Received event lighting request with a trace id of fa911aac-a3ff-4ac3-bebb-aa41d0f57205
+2024-02-14 22:26:26,381 - basicLogger - INFO - Received event lighting request with a trace id of bdb7d03b-3ddd-463d-b483-ee1f8e763047
+2024-02-14 22:26:26,381 - basicLogger - INFO - Received event lighting request with a trace id of 4e22a91f-caec-4677-b33e-cecc16ee1646
+2024-02-14 22:26:28,351 - basicLogger - INFO - Returned event lighting response (Id: 522bead9-a967-40f1-8bf3-e3db1d385ea1) with status 201
+2024-02-14 22:26:28,365 - basicLogger - INFO - Returned event lighting response (Id: ae2e37ce-ae23-45a9-84c6-3235fcc16fa8) with status 201
+2024-02-14 22:26:28,453 - basicLogger - INFO - Returned event lighting response (Id: bdb7d03b-3ddd-463d-b483-ee1f8e763047) with status 201
+2024-02-14 22:26:28,454 - basicLogger - INFO - Returned event lighting response (Id: 4e22a91f-caec-4677-b33e-cecc16ee1646) with status 201
+2024-02-14 22:26:28,456 - basicLogger - INFO - Returned event lighting response (Id: fa911aac-a3ff-4ac3-bebb-aa41d0f57205) with status 201
+2024-02-14 22:48:21,599 - basicLogger - INFO - Received event lighting request with a trace id of d41628bd-814c-4ced-aef3-ab2adf8a51f6
+2024-02-14 22:48:21,809 - basicLogger - INFO - Received event lighting request with a trace id of 7bb6a8f2-188b-439f-bd7f-7d4082370426
+2024-02-14 22:48:21,994 - basicLogger - INFO - Received event lighting request with a trace id of a51cd457-d19d-409d-b879-97ac59d7be21
+2024-02-14 22:48:22,197 - basicLogger - INFO - Received event lighting request with a trace id of f61d293b-6516-424c-bc72-83453e267ec7
+2024-02-14 22:48:22,401 - basicLogger - INFO - Received event lighting request with a trace id of 097b5c7c-44cc-4640-862e-1ed53de34444
+2024-02-14 22:48:23,673 - basicLogger - INFO - Returned event lighting response (Id: d41628bd-814c-4ced-aef3-ab2adf8a51f6) with status 201
+2024-02-14 22:48:23,678 - basicLogger - INFO - Received event thermostat request with a trace id of 4d269f9f-7f88-44da-8b56-04a221139a91
+2024-02-14 22:48:23,856 - basicLogger - INFO - Returned event lighting response (Id: 7bb6a8f2-188b-439f-bd7f-7d4082370426) with status 201
+2024-02-14 22:48:23,863 - basicLogger - INFO - Received event thermostat request with a trace id of 35a3db70-fccd-496c-8db3-6e62b12f243a
+2024-02-14 22:48:24,045 - basicLogger - INFO - Returned event lighting response (Id: a51cd457-d19d-409d-b879-97ac59d7be21) with status 201
+2024-02-14 22:48:24,050 - basicLogger - INFO - Received event thermostat request with a trace id of 9b33a5b2-03fb-476c-9338-dd6f9ff6b1d3
+2024-02-14 22:48:24,247 - basicLogger - INFO - Returned event lighting response (Id: f61d293b-6516-424c-bc72-83453e267ec7) with status 201
+2024-02-14 22:48:24,255 - basicLogger - INFO - Received event thermostat request with a trace id of 26b5a815-f273-46e6-8c65-7717988e2876
+2024-02-14 22:48:24,456 - basicLogger - INFO - Returned event lighting response (Id: 097b5c7c-44cc-4640-862e-1ed53de34444) with status 201
+2024-02-14 22:48:24,464 - basicLogger - INFO - Received event thermostat request with a trace id of c635bab6-0bba-4e17-9593-8973b8cbdfb3
+2024-02-14 22:48:25,733 - basicLogger - INFO - Returned event thermostat response (Id: 4d269f9f-7f88-44da-8b56-04a221139a91) with status 201
+2024-02-14 22:48:25,742 - basicLogger - INFO - Received event lighting request with a trace id of b956d05f-0687-4e74-bcd7-2b97b73ee7c7
+2024-02-14 22:48:25,926 - basicLogger - INFO - Returned event thermostat response (Id: 35a3db70-fccd-496c-8db3-6e62b12f243a) with status 201
+2024-02-14 22:48:25,932 - basicLogger - INFO - Received event lighting request with a trace id of 5aba4a45-18b4-4243-b063-203ab3ab1cfc
+2024-02-14 22:48:26,101 - basicLogger - INFO - Returned event thermostat response (Id: 9b33a5b2-03fb-476c-9338-dd6f9ff6b1d3) with status 201
+2024-02-14 22:48:26,107 - basicLogger - INFO - Received event lighting request with a trace id of 0c2407ef-5556-4d3d-8e6b-bcd4d6b36420
+2024-02-14 22:48:26,300 - basicLogger - INFO - Returned event thermostat response (Id: 26b5a815-f273-46e6-8c65-7717988e2876) with status 201
+2024-02-14 22:48:26,304 - basicLogger - INFO - Received event lighting request with a trace id of 60f19c18-2c8b-4bcc-bf6c-2eb23e3c2e04
+2024-02-14 22:48:26,510 - basicLogger - INFO - Returned event thermostat response (Id: c635bab6-0bba-4e17-9593-8973b8cbdfb3) with status 201
+2024-02-14 22:48:26,518 - basicLogger - INFO - Received event lighting request with a trace id of f05a6b9f-e83c-4cd4-a998-4addc92950e7
+2024-02-14 22:48:27,812 - basicLogger - INFO - Returned event lighting response (Id: b956d05f-0687-4e74-bcd7-2b97b73ee7c7) with status 201
+2024-02-14 22:48:27,818 - basicLogger - INFO - Received event thermostat request with a trace id of 25cc2dd0-6dcd-406a-86a5-4fb36231fadd
+2024-02-14 22:48:28,002 - basicLogger - INFO - Returned event lighting response (Id: 5aba4a45-18b4-4243-b063-203ab3ab1cfc) with status 201
+2024-02-14 22:48:28,007 - basicLogger - INFO - Received event thermostat request with a trace id of 437b9dd3-f350-49d3-858d-e33d9e33b693
+2024-02-14 22:48:28,144 - basicLogger - INFO - Returned event lighting response (Id: 0c2407ef-5556-4d3d-8e6b-bcd4d6b36420) with status 201
+2024-02-14 22:48:28,150 - basicLogger - INFO - Received event thermostat request with a trace id of 8c07d350-0b33-42b0-af07-d562c4aebbe6
+2024-02-14 22:48:28,365 - basicLogger - INFO - Returned event lighting response (Id: 60f19c18-2c8b-4bcc-bf6c-2eb23e3c2e04) with status 201
+2024-02-14 22:48:28,378 - basicLogger - INFO - Received event thermostat request with a trace id of 436f9aa5-0b74-4fb7-80ca-d5e9bdec0779
+2024-02-14 22:48:28,578 - basicLogger - INFO - Returned event lighting response (Id: f05a6b9f-e83c-4cd4-a998-4addc92950e7) with status 201
+2024-02-14 22:48:28,584 - basicLogger - INFO - Received event thermostat request with a trace id of 352dc558-7625-464d-894c-3fd00e8c3476
+2024-02-14 22:48:29,884 - basicLogger - INFO - Returned event thermostat response (Id: 25cc2dd0-6dcd-406a-86a5-4fb36231fadd) with status 201
+2024-02-14 22:48:29,890 - basicLogger - INFO - Received event lighting request with a trace id of 76484ae7-0766-4dac-b003-a6457674a610
+2024-02-14 22:48:30,072 - basicLogger - INFO - Returned event thermostat response (Id: 437b9dd3-f350-49d3-858d-e33d9e33b693) with status 201
+2024-02-14 22:48:30,094 - basicLogger - INFO - Received event lighting request with a trace id of 79fef09d-7857-4211-953a-7e68e4af3500
+2024-02-14 22:48:30,212 - basicLogger - INFO - Returned event thermostat response (Id: 8c07d350-0b33-42b0-af07-d562c4aebbe6) with status 201
+2024-02-14 22:48:30,219 - basicLogger - INFO - Received event lighting request with a trace id of 8b67ed25-914a-427e-affb-5d52261a66c0
+2024-02-14 22:48:30,435 - basicLogger - INFO - Returned event thermostat response (Id: 436f9aa5-0b74-4fb7-80ca-d5e9bdec0779) with status 201
+2024-02-14 22:48:30,440 - basicLogger - INFO - Received event lighting request with a trace id of 0b6c9a00-98b8-414e-9fd4-0d48fca7f426
+2024-02-14 22:48:30,615 - basicLogger - INFO - Returned event thermostat response (Id: 352dc558-7625-464d-894c-3fd00e8c3476) with status 201
+2024-02-14 22:48:30,622 - basicLogger - INFO - Received event lighting request with a trace id of e8689006-b47d-48df-ae52-e8f09421d01f
+2024-02-14 22:48:31,953 - basicLogger - INFO - Returned event lighting response (Id: 76484ae7-0766-4dac-b003-a6457674a610) with status 201
+2024-02-14 22:48:31,960 - basicLogger - INFO - Received event thermostat request with a trace id of 9e6ecc67-f5b7-4081-a26f-353b6b62c413
+2024-02-14 22:48:32,143 - basicLogger - INFO - Returned event lighting response (Id: 79fef09d-7857-4211-953a-7e68e4af3500) with status 201
+2024-02-14 22:48:32,149 - basicLogger - INFO - Received event thermostat request with a trace id of 23672774-cba9-4255-947e-c3c692fed8cd
+2024-02-14 22:48:32,268 - basicLogger - INFO - Returned event lighting response (Id: 8b67ed25-914a-427e-affb-5d52261a66c0) with status 201
+2024-02-14 22:48:32,275 - basicLogger - INFO - Received event thermostat request with a trace id of 5cd5bf18-55ef-4664-9d0d-4f8050a44d73
+2024-02-14 22:48:32,491 - basicLogger - INFO - Returned event lighting response (Id: 0b6c9a00-98b8-414e-9fd4-0d48fca7f426) with status 201
+2024-02-14 22:48:32,498 - basicLogger - INFO - Received event thermostat request with a trace id of ef5f0467-d7f0-41d7-beb0-5f76104581f8
+2024-02-14 22:48:32,660 - basicLogger - INFO - Returned event lighting response (Id: e8689006-b47d-48df-ae52-e8f09421d01f) with status 201
+2024-02-14 22:48:32,666 - basicLogger - INFO - Received event thermostat request with a trace id of 89992e3e-1712-4f15-8bdf-073dfe9e8865
+2024-02-14 22:48:34,027 - basicLogger - INFO - Returned event thermostat response (Id: 9e6ecc67-f5b7-4081-a26f-353b6b62c413) with status 201
+2024-02-14 22:48:34,035 - basicLogger - INFO - Received event lighting request with a trace id of 12cd9d3d-60cd-4a5e-970a-9d152026fc3f
+2024-02-14 22:48:34,198 - basicLogger - INFO - Returned event thermostat response (Id: 23672774-cba9-4255-947e-c3c692fed8cd) with status 201
+2024-02-14 22:48:34,205 - basicLogger - INFO - Received event lighting request with a trace id of 94bcc9f6-c988-4ef9-8d45-4b1d29557c60
+2024-02-14 22:48:34,327 - basicLogger - INFO - Returned event thermostat response (Id: 5cd5bf18-55ef-4664-9d0d-4f8050a44d73) with status 201
+2024-02-14 22:48:34,333 - basicLogger - INFO - Received event lighting request with a trace id of 22b2a5d0-9172-4f5e-afd4-5f3b1a700e52
+2024-02-14 22:48:34,546 - basicLogger - INFO - Returned event thermostat response (Id: ef5f0467-d7f0-41d7-beb0-5f76104581f8) with status 201
+2024-02-14 22:48:34,552 - basicLogger - INFO - Received event lighting request with a trace id of 974b936e-8c40-4abf-b186-c537031587eb
+2024-02-14 22:48:34,706 - basicLogger - INFO - Returned event thermostat response (Id: 89992e3e-1712-4f15-8bdf-073dfe9e8865) with status 201
+2024-02-14 22:48:34,711 - basicLogger - INFO - Received event lighting request with a trace id of c0cd12a5-33d3-4d1b-b901-f1245c881133
+2024-02-14 22:48:36,100 - basicLogger - INFO - Returned event lighting response (Id: 12cd9d3d-60cd-4a5e-970a-9d152026fc3f) with status 201
+2024-02-14 22:48:36,109 - basicLogger - INFO - Received event thermostat request with a trace id of 90eec045-0532-418e-a4a5-3db94e829c3e
+2024-02-14 22:48:36,271 - basicLogger - INFO - Returned event lighting response (Id: 94bcc9f6-c988-4ef9-8d45-4b1d29557c60) with status 201
+2024-02-14 22:48:36,279 - basicLogger - INFO - Received event thermostat request with a trace id of 7b1ec932-7ecb-401c-893b-90fc0ff4de5b
+2024-02-14 22:48:36,408 - basicLogger - INFO - Returned event lighting response (Id: 22b2a5d0-9172-4f5e-afd4-5f3b1a700e52) with status 201
+2024-02-14 22:48:36,415 - basicLogger - INFO - Received event thermostat request with a trace id of 5504383f-8482-464a-8b07-8a9576ca5c74
+2024-02-14 22:48:36,611 - basicLogger - INFO - Returned event lighting response (Id: 974b936e-8c40-4abf-b186-c537031587eb) with status 201
+2024-02-14 22:48:36,619 - basicLogger - INFO - Received event thermostat request with a trace id of df7a0b09-0a8e-497d-8c25-0fd57a33291b
+2024-02-14 22:48:36,768 - basicLogger - INFO - Returned event lighting response (Id: c0cd12a5-33d3-4d1b-b901-f1245c881133) with status 201
+2024-02-14 22:48:36,777 - basicLogger - INFO - Received event thermostat request with a trace id of 96fba5c9-f678-441d-ae8c-d02e18cfafba
+2024-02-14 22:48:38,179 - basicLogger - INFO - Returned event thermostat response (Id: 90eec045-0532-418e-a4a5-3db94e829c3e) with status 201
+2024-02-14 22:48:38,189 - basicLogger - INFO - Received event lighting request with a trace id of dd784065-c93d-4823-b242-f21177d6e0c0
+2024-02-14 22:48:38,323 - basicLogger - INFO - Returned event thermostat response (Id: 7b1ec932-7ecb-401c-893b-90fc0ff4de5b) with status 201
+2024-02-14 22:48:38,328 - basicLogger - INFO - Received event lighting request with a trace id of e19cd3ca-9e4d-472e-91e2-52448824a953
+2024-02-14 22:48:38,463 - basicLogger - INFO - Returned event thermostat response (Id: 5504383f-8482-464a-8b07-8a9576ca5c74) with status 201
+2024-02-14 22:48:38,468 - basicLogger - INFO - Received event lighting request with a trace id of 014d3364-b828-45d5-91a3-8cab7aa46eff
+2024-02-14 22:48:38,674 - basicLogger - INFO - Returned event thermostat response (Id: df7a0b09-0a8e-497d-8c25-0fd57a33291b) with status 201
+2024-02-14 22:48:38,683 - basicLogger - INFO - Received event lighting request with a trace id of 397710b0-f3d1-4784-9a6d-25ec1c3c02f8
+2024-02-14 22:48:38,826 - basicLogger - INFO - Returned event thermostat response (Id: 96fba5c9-f678-441d-ae8c-d02e18cfafba) with status 201
+2024-02-14 22:48:38,831 - basicLogger - INFO - Received event lighting request with a trace id of 9c509ec7-fed8-4b23-b7b1-9699cc89e04d
+2024-02-14 22:48:40,255 - basicLogger - INFO - Returned event lighting response (Id: dd784065-c93d-4823-b242-f21177d6e0c0) with status 201
+2024-02-14 22:48:40,265 - basicLogger - INFO - Received event thermostat request with a trace id of e10b7d25-2cfb-42e9-b4ad-16778e335fbe
+2024-02-14 22:48:40,384 - basicLogger - INFO - Returned event lighting response (Id: e19cd3ca-9e4d-472e-91e2-52448824a953) with status 201
+2024-02-14 22:48:40,392 - basicLogger - INFO - Received event thermostat request with a trace id of 17c19ad9-0680-464c-81c6-c87477f09f47
+2024-02-14 22:48:40,514 - basicLogger - INFO - Returned event lighting response (Id: 014d3364-b828-45d5-91a3-8cab7aa46eff) with status 201
+2024-02-14 22:48:40,521 - basicLogger - INFO - Received event thermostat request with a trace id of 372e0856-d343-48ac-a0d0-931ba059f962
+2024-02-14 22:48:40,739 - basicLogger - INFO - Returned event lighting response (Id: 397710b0-f3d1-4784-9a6d-25ec1c3c02f8) with status 201
+2024-02-14 22:48:40,748 - basicLogger - INFO - Received event thermostat request with a trace id of 8d7f82df-ab48-488b-9e1e-20da24243cf3
+2024-02-14 22:48:40,892 - basicLogger - INFO - Returned event lighting response (Id: 9c509ec7-fed8-4b23-b7b1-9699cc89e04d) with status 201
+2024-02-14 22:48:40,901 - basicLogger - INFO - Received event thermostat request with a trace id of 139e7edf-082d-44cd-998c-1632f27e847a
+2024-02-14 22:48:42,325 - basicLogger - INFO - Returned event thermostat response (Id: e10b7d25-2cfb-42e9-b4ad-16778e335fbe) with status 201
+2024-02-14 22:48:42,332 - basicLogger - INFO - Received event lighting request with a trace id of 56ca8cfe-2926-4fd3-a7ca-e99229688164
+2024-02-14 22:48:42,489 - basicLogger - INFO - Returned event thermostat response (Id: 17c19ad9-0680-464c-81c6-c87477f09f47) with status 201
+2024-02-14 22:48:42,496 - basicLogger - INFO - Received event lighting request with a trace id of 67ef0f2b-dcbf-4827-9215-6bf69668ca90
+2024-02-14 22:48:42,582 - basicLogger - INFO - Returned event thermostat response (Id: 372e0856-d343-48ac-a0d0-931ba059f962) with status 201
+2024-02-14 22:48:42,590 - basicLogger - INFO - Received event lighting request with a trace id of 270315d3-84e3-4e08-929a-71f9c3840dfb
+2024-02-14 22:48:42,803 - basicLogger - INFO - Returned event thermostat response (Id: 8d7f82df-ab48-488b-9e1e-20da24243cf3) with status 201
+2024-02-14 22:48:42,809 - basicLogger - INFO - Received event lighting request with a trace id of 71e04a48-7bc6-4266-bc99-16aa74e887ba
+2024-02-14 22:48:42,976 - basicLogger - INFO - Returned event thermostat response (Id: 139e7edf-082d-44cd-998c-1632f27e847a) with status 201
+2024-02-14 22:48:42,984 - basicLogger - INFO - Received event lighting request with a trace id of a6caa5b5-0aef-4794-8e8a-198003c60a61
+2024-02-14 22:48:44,409 - basicLogger - INFO - Returned event lighting response (Id: 56ca8cfe-2926-4fd3-a7ca-e99229688164) with status 201
+2024-02-14 22:48:44,419 - basicLogger - INFO - Received event thermostat request with a trace id of 1b503eb2-b65c-4fc9-8e58-ec7a197a5b18
+2024-02-14 22:48:44,549 - basicLogger - INFO - Returned event lighting response (Id: 67ef0f2b-dcbf-4827-9215-6bf69668ca90) with status 201
+2024-02-14 22:48:44,554 - basicLogger - INFO - Received event thermostat request with a trace id of afa4b14e-e63f-4540-b745-dd6917dd9836
+2024-02-14 22:48:44,664 - basicLogger - INFO - Returned event lighting response (Id: 270315d3-84e3-4e08-929a-71f9c3840dfb) with status 201
+2024-02-14 22:48:44,669 - basicLogger - INFO - Received event thermostat request with a trace id of 26114528-7207-4046-a9c8-6e9a4732e333
+2024-02-14 22:48:44,865 - basicLogger - INFO - Returned event lighting response (Id: 71e04a48-7bc6-4266-bc99-16aa74e887ba) with status 201
+2024-02-14 22:48:44,874 - basicLogger - INFO - Received event thermostat request with a trace id of 6f1e3deb-54ff-4f50-b99e-240fbb4709a4
+2024-02-14 22:48:45,025 - basicLogger - INFO - Returned event lighting response (Id: a6caa5b5-0aef-4794-8e8a-198003c60a61) with status 201
+2024-02-14 22:48:45,032 - basicLogger - INFO - Received event thermostat request with a trace id of cb9f48b5-cbcf-4aa0-be2d-a78d87d4fdff
+2024-02-14 22:48:46,468 - basicLogger - INFO - Returned event thermostat response (Id: 1b503eb2-b65c-4fc9-8e58-ec7a197a5b18) with status 201
+2024-02-14 22:48:46,475 - basicLogger - INFO - Received event lighting request with a trace id of e35cb425-4b37-4c76-973e-1b99e3e8d3c5
+2024-02-14 22:48:46,608 - basicLogger - INFO - Returned event thermostat response (Id: afa4b14e-e63f-4540-b745-dd6917dd9836) with status 201
+2024-02-14 22:48:46,614 - basicLogger - INFO - Received event lighting request with a trace id of 54501ab4-0386-4260-89e2-8318a25172c8
+2024-02-14 22:48:46,715 - basicLogger - INFO - Returned event thermostat response (Id: 26114528-7207-4046-a9c8-6e9a4732e333) with status 201
+2024-02-14 22:48:46,723 - basicLogger - INFO - Received event lighting request with a trace id of 7f4a7d03-90b2-4100-b06c-8dfa46dc6c6d
+2024-02-14 22:48:46,924 - basicLogger - INFO - Returned event thermostat response (Id: 6f1e3deb-54ff-4f50-b99e-240fbb4709a4) with status 201
+2024-02-14 22:48:46,942 - basicLogger - INFO - Received event lighting request with a trace id of 7f3e263c-ee87-40c0-a624-bd1c5ad932fa
+2024-02-14 22:48:47,108 - basicLogger - INFO - Returned event thermostat response (Id: cb9f48b5-cbcf-4aa0-be2d-a78d87d4fdff) with status 201
+2024-02-14 22:48:47,115 - basicLogger - INFO - Received event lighting request with a trace id of 2847528b-d765-44c5-9c7d-aff1afbe5ef2
+2024-02-14 22:48:48,535 - basicLogger - INFO - Returned event lighting response (Id: e35cb425-4b37-4c76-973e-1b99e3e8d3c5) with status 201
+2024-02-14 22:48:48,542 - basicLogger - INFO - Received event thermostat request with a trace id of bba45fbd-8db5-4298-98f5-bc230835fb91
+2024-02-14 22:48:48,675 - basicLogger - INFO - Returned event lighting response (Id: 54501ab4-0386-4260-89e2-8318a25172c8) with status 201
+2024-02-14 22:48:48,680 - basicLogger - INFO - Received event thermostat request with a trace id of 3db97f9c-2c25-4fa1-8a31-346ea4e4d022
+2024-02-14 22:48:48,770 - basicLogger - INFO - Returned event lighting response (Id: 7f4a7d03-90b2-4100-b06c-8dfa46dc6c6d) with status 201
+2024-02-14 22:48:48,775 - basicLogger - INFO - Received event thermostat request with a trace id of d0c61254-c5e4-484d-bd7d-6f87f6e5a31c
+2024-02-14 22:48:48,989 - basicLogger - INFO - Returned event lighting response (Id: 7f3e263c-ee87-40c0-a624-bd1c5ad932fa) with status 201
+2024-02-14 22:48:48,995 - basicLogger - INFO - Received event thermostat request with a trace id of df1e6a54-448c-446b-b10a-74689a0ff996
+2024-02-14 22:48:49,179 - basicLogger - INFO - Returned event lighting response (Id: 2847528b-d765-44c5-9c7d-aff1afbe5ef2) with status 201
+2024-02-14 22:48:49,186 - basicLogger - INFO - Received event thermostat request with a trace id of 809fd9f6-4d20-4b3b-b223-4d6cfcda3639
+2024-02-14 22:48:50,606 - basicLogger - INFO - Returned event thermostat response (Id: bba45fbd-8db5-4298-98f5-bc230835fb91) with status 201
+2024-02-14 22:48:50,745 - basicLogger - INFO - Returned event thermostat response (Id: 3db97f9c-2c25-4fa1-8a31-346ea4e4d022) with status 201
+2024-02-14 22:48:50,825 - basicLogger - INFO - Returned event thermostat response (Id: d0c61254-c5e4-484d-bd7d-6f87f6e5a31c) with status 201
+2024-02-14 22:48:51,065 - basicLogger - INFO - Returned event thermostat response (Id: df1e6a54-448c-446b-b10a-74689a0ff996) with status 201
+2024-02-14 22:48:51,238 - basicLogger - INFO - Returned event thermostat response (Id: 809fd9f6-4d20-4b3b-b223-4d6cfcda3639) with status 201
+2024-02-14 22:52:40,579 - basicLogger - INFO - Received event lighting request with a trace id of a1e8f6b6-e3b8-4fee-8272-4cf8cb365828
+2024-02-14 22:52:40,789 - basicLogger - INFO - Received event lighting request with a trace id of d3c0b584-b54b-41da-a3b6-8d597b788f6a
+2024-02-14 22:52:40,990 - basicLogger - INFO - Received event lighting request with a trace id of 0d1852a8-b7cb-4f88-886c-ec091ea996bc
+2024-02-14 22:52:41,183 - basicLogger - INFO - Received event lighting request with a trace id of 17adb0ac-fb3a-429b-bc86-6b4369128b6c
+2024-02-14 22:52:41,388 - basicLogger - INFO - Received event lighting request with a trace id of 05b1b85d-026c-4434-b510-570c62367afd
+2024-02-14 22:52:42,648 - basicLogger - INFO - Returned event lighting response (Id: a1e8f6b6-e3b8-4fee-8272-4cf8cb365828) with status 201
+2024-02-14 22:52:42,654 - basicLogger - INFO - Received event thermostat request with a trace id of 5ced9da7-437b-4bf5-bd47-2d776cfe3c93
+2024-02-14 22:52:42,854 - basicLogger - INFO - Returned event lighting response (Id: d3c0b584-b54b-41da-a3b6-8d597b788f6a) with status 201
+2024-02-14 22:52:42,861 - basicLogger - INFO - Received event thermostat request with a trace id of 5d8f7dec-9f82-4a17-be9c-db8113aa6e3a
+2024-02-14 22:52:43,045 - basicLogger - INFO - Returned event lighting response (Id: 0d1852a8-b7cb-4f88-886c-ec091ea996bc) with status 201
+2024-02-14 22:52:43,052 - basicLogger - INFO - Received event thermostat request with a trace id of 036abafa-d008-4160-a71d-9ac810942df5
+2024-02-14 22:52:43,259 - basicLogger - INFO - Returned event lighting response (Id: 17adb0ac-fb3a-429b-bc86-6b4369128b6c) with status 201
+2024-02-14 22:52:43,266 - basicLogger - INFO - Received event thermostat request with a trace id of 42362fb3-cf0d-427b-9113-ed663f833aea
+2024-02-14 22:52:43,465 - basicLogger - INFO - Returned event lighting response (Id: 05b1b85d-026c-4434-b510-570c62367afd) with status 201
+2024-02-14 22:52:43,471 - basicLogger - INFO - Received event thermostat request with a trace id of 2231f429-cd41-49ab-90ab-959ad72bfb0d
+2024-02-14 22:52:44,715 - basicLogger - INFO - Returned event thermostat response (Id: 5ced9da7-437b-4bf5-bd47-2d776cfe3c93) with status 201
+2024-02-14 22:52:44,723 - basicLogger - INFO - Received event lighting request with a trace id of 3c333f00-917c-466c-ae02-76d96668518e
+2024-02-14 22:52:44,914 - basicLogger - INFO - Returned event thermostat response (Id: 5d8f7dec-9f82-4a17-be9c-db8113aa6e3a) with status 201
+2024-02-14 22:52:44,922 - basicLogger - INFO - Received event lighting request with a trace id of 0d18e4a4-7c27-4f0d-96d6-0943fddf01e7
+2024-02-14 22:52:45,099 - basicLogger - INFO - Returned event thermostat response (Id: 036abafa-d008-4160-a71d-9ac810942df5) with status 201
+2024-02-14 22:52:45,332 - basicLogger - INFO - Returned event thermostat response (Id: 42362fb3-cf0d-427b-9113-ed663f833aea) with status 201
+2024-02-14 22:52:45,505 - basicLogger - INFO - Returned event thermostat response (Id: 2231f429-cd41-49ab-90ab-959ad72bfb0d) with status 201
+2024-02-14 22:52:46,800 - basicLogger - INFO - Returned event lighting response (Id: 3c333f00-917c-466c-ae02-76d96668518e) with status 201
+2024-02-14 22:52:46,967 - basicLogger - INFO - Returned event lighting response (Id: 0d18e4a4-7c27-4f0d-96d6-0943fddf01e7) with status 201
+2024-02-14 22:52:55,465 - basicLogger - INFO - Received event lighting request with a trace id of 97d3d3f3-0843-4979-b225-4b489850a396
+2024-02-14 22:52:55,669 - basicLogger - INFO - Received event lighting request with a trace id of 0516daf7-633c-4677-814f-1e86937354d8
+2024-02-14 22:52:55,868 - basicLogger - INFO - Received event lighting request with a trace id of 7f4f6252-4359-4158-bcc9-904711e129ae
+2024-02-14 22:52:56,066 - basicLogger - INFO - Received event lighting request with a trace id of c250b8be-3c8c-47b7-b8bf-b0399cceeed3
+2024-02-14 22:52:56,267 - basicLogger - INFO - Received event lighting request with a trace id of 0038d0cf-e1dd-4a9c-aea9-c4410aef455e
+2024-02-14 22:52:57,516 - basicLogger - INFO - Returned event lighting response (Id: 97d3d3f3-0843-4979-b225-4b489850a396) with status 201
+2024-02-14 22:52:57,523 - basicLogger - INFO - Received event thermostat request with a trace id of 55c2f856-d505-4e05-acf3-25495f5f2836
+2024-02-14 22:52:57,717 - basicLogger - INFO - Returned event lighting response (Id: 0516daf7-633c-4677-814f-1e86937354d8) with status 201
+2024-02-14 22:52:57,723 - basicLogger - INFO - Received event thermostat request with a trace id of ebadd27a-9043-4d70-96e6-900af4d446d6
+2024-02-14 22:52:57,910 - basicLogger - INFO - Returned event lighting response (Id: 7f4f6252-4359-4158-bcc9-904711e129ae) with status 201
+2024-02-14 22:52:57,917 - basicLogger - INFO - Received event thermostat request with a trace id of 5a1ce624-f8ef-4071-9d9d-0a0a615acb9c
+2024-02-14 22:52:58,113 - basicLogger - INFO - Returned event lighting response (Id: c250b8be-3c8c-47b7-b8bf-b0399cceeed3) with status 201
+2024-02-14 22:52:58,118 - basicLogger - INFO - Received event thermostat request with a trace id of 0582fe47-21d8-410d-993b-26f2fafa5923
+2024-02-14 22:52:58,320 - basicLogger - INFO - Returned event lighting response (Id: 0038d0cf-e1dd-4a9c-aea9-c4410aef455e) with status 201
+2024-02-14 22:52:58,328 - basicLogger - INFO - Received event thermostat request with a trace id of 70bc7083-6605-4e0c-8ea2-818e5b6adcb0
+2024-02-14 22:52:59,587 - basicLogger - INFO - Returned event thermostat response (Id: 55c2f856-d505-4e05-acf3-25495f5f2836) with status 201
+2024-02-14 22:52:59,594 - basicLogger - INFO - Received event lighting request with a trace id of 44f4d42f-6b75-47d7-867c-d3bdc64433a2
+2024-02-14 22:52:59,778 - basicLogger - INFO - Returned event thermostat response (Id: ebadd27a-9043-4d70-96e6-900af4d446d6) with status 201
+2024-02-14 22:52:59,784 - basicLogger - INFO - Received event lighting request with a trace id of 0e0350c9-4894-4f53-8c1d-6e96fdde36d7
+2024-02-14 22:52:59,984 - basicLogger - INFO - Returned event thermostat response (Id: 5a1ce624-f8ef-4071-9d9d-0a0a615acb9c) with status 201
+2024-02-14 22:52:59,992 - basicLogger - INFO - Received event lighting request with a trace id of de090a4c-d0ab-4803-b037-df42bce23d1f
+2024-02-14 22:53:00,185 - basicLogger - INFO - Returned event thermostat response (Id: 0582fe47-21d8-410d-993b-26f2fafa5923) with status 201
+2024-02-14 22:53:00,193 - basicLogger - INFO - Received event lighting request with a trace id of 1386c9ae-77ba-418a-a5e8-170dc70ee974
+2024-02-14 22:53:00,390 - basicLogger - INFO - Returned event thermostat response (Id: 70bc7083-6605-4e0c-8ea2-818e5b6adcb0) with status 201
+2024-02-14 22:53:00,397 - basicLogger - INFO - Received event lighting request with a trace id of 38ef87ba-0d74-47b3-9ed0-522659d69695
+2024-02-14 22:53:01,651 - basicLogger - INFO - Returned event lighting response (Id: 44f4d42f-6b75-47d7-867c-d3bdc64433a2) with status 201
+2024-02-14 22:53:01,852 - basicLogger - INFO - Returned event lighting response (Id: 0e0350c9-4894-4f53-8c1d-6e96fdde36d7) with status 201
+2024-02-14 22:53:02,050 - basicLogger - INFO - Returned event lighting response (Id: de090a4c-d0ab-4803-b037-df42bce23d1f) with status 201
+2024-02-14 22:53:02,244 - basicLogger - INFO - Returned event lighting response (Id: 1386c9ae-77ba-418a-a5e8-170dc70ee974) with status 201
+2024-02-14 22:53:02,448 - basicLogger - INFO - Returned event lighting response (Id: 38ef87ba-0d74-47b3-9ed0-522659d69695) with status 201
+2024-02-14 22:53:12,373 - basicLogger - INFO - Received event lighting request with a trace id of 063d29a6-0436-4047-ae9e-2ed930f4e53b
+2024-02-14 22:53:12,590 - basicLogger - INFO - Received event lighting request with a trace id of 4237c0f3-165f-47bb-a209-25d16b17b2c0
+2024-02-14 22:53:12,777 - basicLogger - INFO - Received event lighting request with a trace id of abf04a67-442b-4a3c-968e-5368b060d2e8
+2024-02-14 22:53:12,973 - basicLogger - INFO - Received event lighting request with a trace id of 026ca681-8cf2-4157-9b30-f4a4f1b7741c
+2024-02-14 22:53:13,175 - basicLogger - INFO - Received event lighting request with a trace id of 5b317dde-030f-4ead-88d9-2e72f30ff336
+2024-02-14 22:53:14,425 - basicLogger - INFO - Returned event lighting response (Id: 063d29a6-0436-4047-ae9e-2ed930f4e53b) with status 201
+2024-02-14 22:53:14,430 - basicLogger - INFO - Received event thermostat request with a trace id of 3d5b71ba-7fb9-4be2-8dc3-8666a0fb0cb1
+2024-02-14 22:53:14,676 - basicLogger - INFO - Returned event lighting response (Id: 4237c0f3-165f-47bb-a209-25d16b17b2c0) with status 201
+2024-02-14 22:53:14,682 - basicLogger - INFO - Received event thermostat request with a trace id of cddaa018-d3f3-44be-bbc8-c594fcb70e68
+2024-02-14 22:53:14,837 - basicLogger - INFO - Returned event lighting response (Id: abf04a67-442b-4a3c-968e-5368b060d2e8) with status 201
+2024-02-14 22:53:14,843 - basicLogger - INFO - Received event thermostat request with a trace id of cbc735c7-e83d-4cd3-84e1-b36bf50f9ecc
+2024-02-14 22:53:15,043 - basicLogger - INFO - Returned event lighting response (Id: 026ca681-8cf2-4157-9b30-f4a4f1b7741c) with status 201
+2024-02-14 22:53:15,049 - basicLogger - INFO - Received event thermostat request with a trace id of 81f4c443-7030-433a-b64b-06adce57583a
+2024-02-14 22:53:15,237 - basicLogger - INFO - Returned event lighting response (Id: 5b317dde-030f-4ead-88d9-2e72f30ff336) with status 201
+2024-02-14 22:53:15,243 - basicLogger - INFO - Received event thermostat request with a trace id of 25c98094-d74e-4fc9-b1d1-7cf0caec911b
+2024-02-14 22:53:16,479 - basicLogger - INFO - Returned event thermostat response (Id: 3d5b71ba-7fb9-4be2-8dc3-8666a0fb0cb1) with status 201
+2024-02-14 22:53:16,484 - basicLogger - INFO - Received event lighting request with a trace id of 07f75f4d-32e8-4ec9-8ae7-701111bdb9b1
+2024-02-14 22:53:16,755 - basicLogger - INFO - Returned event thermostat response (Id: cddaa018-d3f3-44be-bbc8-c594fcb70e68) with status 201
+2024-02-14 22:53:16,761 - basicLogger - INFO - Received event lighting request with a trace id of c1b9e18c-3bbb-4d65-b829-876b94b7d64a
+2024-02-14 22:53:16,895 - basicLogger - INFO - Returned event thermostat response (Id: cbc735c7-e83d-4cd3-84e1-b36bf50f9ecc) with status 201
+2024-02-14 22:53:16,902 - basicLogger - INFO - Received event lighting request with a trace id of 216d3009-b93f-4307-b7b1-a7646a57b37b
+2024-02-14 22:53:17,096 - basicLogger - INFO - Returned event thermostat response (Id: 81f4c443-7030-433a-b64b-06adce57583a) with status 201
+2024-02-14 22:53:17,104 - basicLogger - INFO - Received event lighting request with a trace id of aecd9bb8-10a6-4e53-94e9-2cc20ecb9ad4
+2024-02-14 22:53:17,298 - basicLogger - INFO - Returned event thermostat response (Id: 25c98094-d74e-4fc9-b1d1-7cf0caec911b) with status 201
+2024-02-14 22:53:17,305 - basicLogger - INFO - Received event lighting request with a trace id of a24ee01c-cee2-4366-89af-e98291ee1557
+2024-02-14 22:53:18,538 - basicLogger - INFO - Returned event lighting response (Id: 07f75f4d-32e8-4ec9-8ae7-701111bdb9b1) with status 201
+2024-02-14 22:53:18,545 - basicLogger - INFO - Received event thermostat request with a trace id of 226b7525-af27-4db4-8857-0ae398e52c52
+2024-02-14 22:53:18,831 - basicLogger - INFO - Returned event lighting response (Id: c1b9e18c-3bbb-4d65-b829-876b94b7d64a) with status 201
+2024-02-14 22:53:18,839 - basicLogger - INFO - Received event thermostat request with a trace id of 39058a1e-b6ae-4442-8e39-ed404c9c6fbe
+2024-02-14 22:53:18,948 - basicLogger - INFO - Returned event lighting response (Id: 216d3009-b93f-4307-b7b1-a7646a57b37b) with status 201
+2024-02-14 22:53:18,955 - basicLogger - INFO - Received event thermostat request with a trace id of de644749-a2bf-4511-a422-41f132720afe
+2024-02-14 22:53:19,145 - basicLogger - INFO - Returned event lighting response (Id: aecd9bb8-10a6-4e53-94e9-2cc20ecb9ad4) with status 201
+2024-02-14 22:53:19,151 - basicLogger - INFO - Received event thermostat request with a trace id of 9d0d2dca-9222-4c06-af1c-6dcb7ad969b3
+2024-02-14 22:53:19,363 - basicLogger - INFO - Returned event lighting response (Id: a24ee01c-cee2-4366-89af-e98291ee1557) with status 201
+2024-02-14 22:53:19,368 - basicLogger - INFO - Received event thermostat request with a trace id of 93f66bca-0b91-4d19-8a5d-b9295c5f798d
+2024-02-14 22:53:20,614 - basicLogger - INFO - Returned event thermostat response (Id: 226b7525-af27-4db4-8857-0ae398e52c52) with status 201
+2024-02-14 22:53:20,622 - basicLogger - INFO - Received event lighting request with a trace id of 05846c55-6560-4046-b63f-896b68edbdb4
+2024-02-14 22:53:20,907 - basicLogger - INFO - Returned event thermostat response (Id: 39058a1e-b6ae-4442-8e39-ed404c9c6fbe) with status 201
+2024-02-14 22:53:20,914 - basicLogger - INFO - Received event lighting request with a trace id of 1cd6a755-fc58-4078-b453-83935c685603
+2024-02-14 22:53:21,012 - basicLogger - INFO - Returned event thermostat response (Id: de644749-a2bf-4511-a422-41f132720afe) with status 201
+2024-02-14 22:53:21,019 - basicLogger - INFO - Received event lighting request with a trace id of d709f82d-b52e-40da-b000-1900e9d284c7
+2024-02-14 22:53:21,217 - basicLogger - INFO - Returned event thermostat response (Id: 9d0d2dca-9222-4c06-af1c-6dcb7ad969b3) with status 201
+2024-02-14 22:53:21,225 - basicLogger - INFO - Received event lighting request with a trace id of a200271f-2b3a-49a0-a326-96644d985e83
+2024-02-14 22:53:21,411 - basicLogger - INFO - Returned event thermostat response (Id: 93f66bca-0b91-4d19-8a5d-b9295c5f798d) with status 201
+2024-02-14 22:53:21,416 - basicLogger - INFO - Received event lighting request with a trace id of c1a9c8b5-943c-4e9a-ae43-d3d51d23ad96
+2024-02-14 22:53:22,684 - basicLogger - INFO - Returned event lighting response (Id: 05846c55-6560-4046-b63f-896b68edbdb4) with status 201
+2024-02-14 22:53:22,982 - basicLogger - INFO - Returned event lighting response (Id: 1cd6a755-fc58-4078-b453-83935c685603) with status 201
+2024-02-14 22:53:23,065 - basicLogger - INFO - Returned event lighting response (Id: d709f82d-b52e-40da-b000-1900e9d284c7) with status 201
+2024-02-14 22:53:23,275 - basicLogger - INFO - Returned event lighting response (Id: a200271f-2b3a-49a0-a326-96644d985e83) with status 201
+2024-02-14 22:53:23,477 - basicLogger - INFO - Returned event lighting response (Id: c1a9c8b5-943c-4e9a-ae43-d3d51d23ad96) with status 201
+2024-02-14 22:56:57,927 - basicLogger - INFO - Received event thermostat request with a trace id of 31214fe7-c35b-49db-b76c-aafbb08846d5
+2024-02-14 22:56:59,990 - basicLogger - INFO - Returned event thermostat response (Id: 31214fe7-c35b-49db-b76c-aafbb08846d5) with status 201
+2024-02-14 22:57:11,905 - basicLogger - INFO - Received event lighting request with a trace id of 157c6c54-88e7-4b03-922c-14afb89577ea
+2024-02-14 22:57:13,972 - basicLogger - INFO - Returned event lighting response (Id: 157c6c54-88e7-4b03-922c-14afb89577ea) with status 201
+2024-02-14 23:00:36,176 - basicLogger - INFO - Received event lighting request with a trace id of 2cbb4339-70c8-43b5-8878-8a1a187904fc
+2024-02-14 23:00:36,390 - basicLogger - INFO - Received event lighting request with a trace id of 97565a47-b771-43de-be64-05b964a183af
+2024-02-14 23:00:36,591 - basicLogger - INFO - Received event lighting request with a trace id of d5bb53bf-fe2a-4180-a90d-b9d4cf99aceb
+2024-02-14 23:00:36,786 - basicLogger - INFO - Received event lighting request with a trace id of defec111-f3d2-4475-bbdf-3ce894974021
+2024-02-14 23:00:36,979 - basicLogger - INFO - Received event lighting request with a trace id of 250cf93f-374a-4800-8b98-25a49d9631a6
+2024-02-14 23:00:38,240 - basicLogger - INFO - Returned event lighting response (Id: 2cbb4339-70c8-43b5-8878-8a1a187904fc) with status 201
+2024-02-14 23:00:38,246 - basicLogger - INFO - Received event thermostat request with a trace id of dab8e2e3-4783-4b46-a905-5727f169fae8
+2024-02-14 23:00:38,452 - basicLogger - INFO - Returned event lighting response (Id: 97565a47-b771-43de-be64-05b964a183af) with status 201
+2024-02-14 23:00:38,460 - basicLogger - INFO - Received event thermostat request with a trace id of 7ce5d658-1449-4060-9a4f-6d56b9599b4c
+2024-02-14 23:00:38,643 - basicLogger - INFO - Returned event lighting response (Id: d5bb53bf-fe2a-4180-a90d-b9d4cf99aceb) with status 201
+2024-02-14 23:00:38,650 - basicLogger - INFO - Received event thermostat request with a trace id of c57ea866-bafd-4d9c-9251-98787fd85856
+2024-02-14 23:00:38,841 - basicLogger - INFO - Returned event lighting response (Id: defec111-f3d2-4475-bbdf-3ce894974021) with status 201
+2024-02-14 23:00:38,848 - basicLogger - INFO - Received event thermostat request with a trace id of 34422fc7-042e-475c-ba06-eaa5e6a89c17
+2024-02-14 23:00:39,044 - basicLogger - INFO - Returned event lighting response (Id: 250cf93f-374a-4800-8b98-25a49d9631a6) with status 201
+2024-02-14 23:00:39,052 - basicLogger - INFO - Received event thermostat request with a trace id of 23aac480-b1d3-4d53-8a2b-faa7f6d963ab
+2024-02-14 23:00:40,307 - basicLogger - INFO - Returned event thermostat response (Id: dab8e2e3-4783-4b46-a905-5727f169fae8) with status 201
+2024-02-14 23:00:40,313 - basicLogger - INFO - Received event lighting request with a trace id of 79af0739-8baa-427e-aeb7-689700f7b755
+2024-02-14 23:00:40,528 - basicLogger - INFO - Returned event thermostat response (Id: 7ce5d658-1449-4060-9a4f-6d56b9599b4c) with status 201
+2024-02-14 23:00:40,536 - basicLogger - INFO - Received event lighting request with a trace id of 85a80c6e-df8b-4b30-b908-ba873ee047ec
+2024-02-14 23:00:40,693 - basicLogger - INFO - Returned event thermostat response (Id: c57ea866-bafd-4d9c-9251-98787fd85856) with status 201
+2024-02-14 23:00:40,699 - basicLogger - INFO - Received event lighting request with a trace id of 944c8883-af32-4bb6-8d0f-6963509ca005
+2024-02-14 23:00:40,915 - basicLogger - INFO - Returned event thermostat response (Id: 34422fc7-042e-475c-ba06-eaa5e6a89c17) with status 201
+2024-02-14 23:00:40,924 - basicLogger - INFO - Received event lighting request with a trace id of abf1c908-51a2-42bc-8a43-3420168b312c
+2024-02-14 23:00:41,121 - basicLogger - INFO - Returned event thermostat response (Id: 23aac480-b1d3-4d53-8a2b-faa7f6d963ab) with status 201
+2024-02-14 23:00:41,131 - basicLogger - INFO - Received event lighting request with a trace id of 4d31ab05-4e20-46a7-ab41-8aef0ac10a54
+2024-02-14 23:00:42,387 - basicLogger - INFO - Returned event lighting response (Id: 79af0739-8baa-427e-aeb7-689700f7b755) with status 201
+2024-02-14 23:00:42,397 - basicLogger - INFO - Received event thermostat request with a trace id of 020f0c03-ebc1-4258-9beb-48086ff5b866
+2024-02-14 23:00:42,597 - basicLogger - INFO - Returned event lighting response (Id: 85a80c6e-df8b-4b30-b908-ba873ee047ec) with status 201
+2024-02-14 23:00:42,605 - basicLogger - INFO - Received event thermostat request with a trace id of c71a2f55-d808-482d-8b53-7ceac9c48d4d
+2024-02-14 23:00:42,769 - basicLogger - INFO - Returned event lighting response (Id: 944c8883-af32-4bb6-8d0f-6963509ca005) with status 201
+2024-02-14 23:00:42,777 - basicLogger - INFO - Received event thermostat request with a trace id of 703d8a9b-bc15-41da-bb2d-27187a2aedcb
+2024-02-14 23:00:42,974 - basicLogger - INFO - Returned event lighting response (Id: abf1c908-51a2-42bc-8a43-3420168b312c) with status 201
+2024-02-14 23:00:42,982 - basicLogger - INFO - Received event thermostat request with a trace id of b1d08c35-7c54-4e93-ad85-1df739934417
+2024-02-14 23:00:43,208 - basicLogger - INFO - Returned event lighting response (Id: 4d31ab05-4e20-46a7-ab41-8aef0ac10a54) with status 201
+2024-02-14 23:00:43,223 - basicLogger - INFO - Received event thermostat request with a trace id of 8a08c4fc-b018-430c-9ac3-e6acf8070d12
+2024-02-14 23:00:44,443 - basicLogger - INFO - Returned event thermostat response (Id: 020f0c03-ebc1-4258-9beb-48086ff5b866) with status 201
+2024-02-14 23:00:44,450 - basicLogger - INFO - Received event lighting request with a trace id of 3f94f638-287d-48b7-a472-617b54142130
+2024-02-14 23:00:44,673 - basicLogger - INFO - Returned event thermostat response (Id: c71a2f55-d808-482d-8b53-7ceac9c48d4d) with status 201
+2024-02-14 23:00:44,682 - basicLogger - INFO - Received event lighting request with a trace id of f76b9aa2-edc7-40ad-930c-0754aeb1747b
+2024-02-14 23:00:44,826 - basicLogger - INFO - Returned event thermostat response (Id: 703d8a9b-bc15-41da-bb2d-27187a2aedcb) with status 201
+2024-02-14 23:00:44,832 - basicLogger - INFO - Received event lighting request with a trace id of 1b18186f-bfc4-47d0-bd81-1c85fcfad176
+2024-02-14 23:00:45,038 - basicLogger - INFO - Returned event thermostat response (Id: b1d08c35-7c54-4e93-ad85-1df739934417) with status 201
+2024-02-14 23:00:45,276 - basicLogger - INFO - Returned event thermostat response (Id: 8a08c4fc-b018-430c-9ac3-e6acf8070d12) with status 201
+2024-02-14 23:00:46,524 - basicLogger - INFO - Returned event lighting response (Id: 3f94f638-287d-48b7-a472-617b54142130) with status 201
+2024-02-14 23:00:46,760 - basicLogger - INFO - Returned event lighting response (Id: f76b9aa2-edc7-40ad-930c-0754aeb1747b) with status 201
+2024-02-14 23:00:46,898 - basicLogger - INFO - Returned event lighting response (Id: 1b18186f-bfc4-47d0-bd81-1c85fcfad176) with status 201
+2024-02-14 23:00:48,255 - basicLogger - INFO - Received event lighting request with a trace id of f0143726-1f8f-4046-8f20-42ed8059c63d
+2024-02-14 23:00:48,455 - basicLogger - INFO - Received event lighting request with a trace id of bf200df9-5f88-4e6a-adb8-a97cb1561a30
+2024-02-14 23:00:48,658 - basicLogger - INFO - Received event lighting request with a trace id of 14f0c7fb-1b8c-4419-9147-03476b8fdf3b
+2024-02-14 23:00:48,858 - basicLogger - INFO - Received event lighting request with a trace id of f5d216c2-8d48-4ee8-90be-9ee66b16afac
+2024-02-14 23:00:49,060 - basicLogger - INFO - Received event lighting request with a trace id of 30e1d041-c4f9-40c9-8ca6-6ac1b57e84be
+2024-02-14 23:00:50,317 - basicLogger - INFO - Returned event lighting response (Id: f0143726-1f8f-4046-8f20-42ed8059c63d) with status 201
+2024-02-14 23:00:50,325 - basicLogger - INFO - Received event thermostat request with a trace id of 84b7ed56-ca2f-4612-8ca9-a1bf6c80c9c5
+2024-02-14 23:00:50,520 - basicLogger - INFO - Returned event lighting response (Id: bf200df9-5f88-4e6a-adb8-a97cb1561a30) with status 201
+2024-02-14 23:00:50,527 - basicLogger - INFO - Received event thermostat request with a trace id of c6b74968-cb9e-41d3-ad02-cb470c3f3202
+2024-02-14 23:00:50,722 - basicLogger - INFO - Returned event lighting response (Id: 14f0c7fb-1b8c-4419-9147-03476b8fdf3b) with status 201
+2024-02-14 23:00:50,728 - basicLogger - INFO - Received event thermostat request with a trace id of 4f4d238c-cd07-4cfa-9bab-a4e236432e05
+2024-02-14 23:00:50,932 - basicLogger - INFO - Returned event lighting response (Id: f5d216c2-8d48-4ee8-90be-9ee66b16afac) with status 201
+2024-02-14 23:00:50,941 - basicLogger - INFO - Received event thermostat request with a trace id of 4eaf699f-15ae-4ca6-bf2b-abbea9ba867e
+2024-02-14 23:00:51,134 - basicLogger - INFO - Returned event lighting response (Id: 30e1d041-c4f9-40c9-8ca6-6ac1b57e84be) with status 201
+2024-02-14 23:00:51,143 - basicLogger - INFO - Received event thermostat request with a trace id of ffbd1042-f0b1-4c28-9f7b-b7977fee65e3
+2024-02-14 23:00:52,392 - basicLogger - INFO - Returned event thermostat response (Id: 84b7ed56-ca2f-4612-8ca9-a1bf6c80c9c5) with status 201
+2024-02-14 23:00:52,399 - basicLogger - INFO - Received event lighting request with a trace id of b957e9bc-5fbc-459b-9904-3288e8c9f932
+2024-02-14 23:00:52,589 - basicLogger - INFO - Returned event thermostat response (Id: c6b74968-cb9e-41d3-ad02-cb470c3f3202) with status 201
+2024-02-14 23:00:52,596 - basicLogger - INFO - Received event lighting request with a trace id of 747093ed-553d-434a-a82d-573b08252449
+2024-02-14 23:00:52,786 - basicLogger - INFO - Returned event thermostat response (Id: 4f4d238c-cd07-4cfa-9bab-a4e236432e05) with status 201
+2024-02-14 23:00:52,791 - basicLogger - INFO - Received event lighting request with a trace id of 7c893c97-09d9-4f1a-8a15-e1d0f39271d9
+2024-02-14 23:00:53,012 - basicLogger - INFO - Returned event thermostat response (Id: 4eaf699f-15ae-4ca6-bf2b-abbea9ba867e) with status 201
+2024-02-14 23:00:53,020 - basicLogger - INFO - Received event lighting request with a trace id of 064955e1-156e-4421-806c-995c1b941ee5
+2024-02-14 23:00:53,214 - basicLogger - INFO - Returned event thermostat response (Id: ffbd1042-f0b1-4c28-9f7b-b7977fee65e3) with status 201
+2024-02-14 23:00:53,222 - basicLogger - INFO - Received event lighting request with a trace id of 6bc46c1e-e181-49b0-942a-728e42e43102
+2024-02-14 23:00:54,481 - basicLogger - INFO - Returned event lighting response (Id: b957e9bc-5fbc-459b-9904-3288e8c9f932) with status 201
+2024-02-14 23:00:54,489 - basicLogger - INFO - Received event thermostat request with a trace id of 998f34c3-6521-4034-863d-f89679197d39
+2024-02-14 23:00:54,649 - basicLogger - INFO - Returned event lighting response (Id: 747093ed-553d-434a-a82d-573b08252449) with status 201
+2024-02-14 23:00:54,657 - basicLogger - INFO - Received event thermostat request with a trace id of 7655f157-bcf7-49b3-818f-2d48b532b550
+2024-02-14 23:00:54,851 - basicLogger - INFO - Returned event lighting response (Id: 7c893c97-09d9-4f1a-8a15-e1d0f39271d9) with status 201
+2024-02-14 23:00:54,860 - basicLogger - INFO - Received event thermostat request with a trace id of 0feb056a-623a-44c1-9099-d2c34903179d
+2024-02-14 23:00:55,094 - basicLogger - INFO - Returned event lighting response (Id: 064955e1-156e-4421-806c-995c1b941ee5) with status 201
+2024-02-14 23:00:55,100 - basicLogger - INFO - Received event thermostat request with a trace id of db3666ae-28d6-43b2-b2ed-3ae21900b4bd
+2024-02-14 23:00:55,285 - basicLogger - INFO - Returned event lighting response (Id: 6bc46c1e-e181-49b0-942a-728e42e43102) with status 201
+2024-02-14 23:00:55,294 - basicLogger - INFO - Received event thermostat request with a trace id of fc82fa16-9a85-47e8-ba76-33cadb4fff49
+2024-02-14 23:00:56,565 - basicLogger - INFO - Returned event thermostat response (Id: 998f34c3-6521-4034-863d-f89679197d39) with status 201
+2024-02-14 23:00:56,574 - basicLogger - INFO - Received event lighting request with a trace id of e74cb580-9430-4d31-b015-ff670a22ccb9
+2024-02-14 23:00:56,727 - basicLogger - INFO - Returned event thermostat response (Id: 7655f157-bcf7-49b3-818f-2d48b532b550) with status 201
+2024-02-14 23:00:56,735 - basicLogger - INFO - Received event lighting request with a trace id of c7e588c1-e3f8-4c1e-9a53-5aa22e8f6136
+2024-02-14 23:00:56,928 - basicLogger - INFO - Returned event thermostat response (Id: 0feb056a-623a-44c1-9099-d2c34903179d) with status 201
+2024-02-14 23:00:56,936 - basicLogger - INFO - Received event lighting request with a trace id of 471069b6-f5fa-460f-9652-3b03d51cdf4c
+2024-02-14 23:00:57,157 - basicLogger - INFO - Returned event thermostat response (Id: db3666ae-28d6-43b2-b2ed-3ae21900b4bd) with status 201
+2024-02-14 23:00:57,163 - basicLogger - INFO - Received event lighting request with a trace id of a608b0e1-3902-47fa-97f8-abca84349ca9
+2024-02-14 23:00:57,363 - basicLogger - INFO - Returned event thermostat response (Id: fc82fa16-9a85-47e8-ba76-33cadb4fff49) with status 201
+2024-02-14 23:00:57,370 - basicLogger - INFO - Received event lighting request with a trace id of 96e8c317-25d7-4b83-8eff-6f50f4f3ecf1
+2024-02-14 23:00:58,650 - basicLogger - INFO - Returned event lighting response (Id: e74cb580-9430-4d31-b015-ff670a22ccb9) with status 201
+2024-02-14 23:00:58,658 - basicLogger - INFO - Received event thermostat request with a trace id of d6fcc8ee-acdf-4166-ba69-797bcbd6b127
+2024-02-14 23:00:58,812 - basicLogger - INFO - Returned event lighting response (Id: c7e588c1-e3f8-4c1e-9a53-5aa22e8f6136) with status 201
+2024-02-14 23:00:58,821 - basicLogger - INFO - Received event thermostat request with a trace id of 305022fd-fa4d-4c91-9d04-70671b21f89e
+2024-02-14 23:00:59,000 - basicLogger - INFO - Returned event lighting response (Id: 471069b6-f5fa-460f-9652-3b03d51cdf4c) with status 201
+2024-02-14 23:00:59,008 - basicLogger - INFO - Received event thermostat request with a trace id of 3c84cf7c-8225-4e17-b276-e163c05ce9b3
+2024-02-14 23:00:59,229 - basicLogger - INFO - Returned event lighting response (Id: a608b0e1-3902-47fa-97f8-abca84349ca9) with status 201
+2024-02-14 23:00:59,237 - basicLogger - INFO - Received event thermostat request with a trace id of ba23193d-c8fa-4fe2-8d90-4c853abb9e2f
+2024-02-14 23:00:59,426 - basicLogger - INFO - Returned event lighting response (Id: 96e8c317-25d7-4b83-8eff-6f50f4f3ecf1) with status 201
+2024-02-14 23:00:59,431 - basicLogger - INFO - Received event thermostat request with a trace id of 27a954df-db71-4066-be0e-516d06e999ab
+2024-02-14 23:01:00,731 - basicLogger - INFO - Returned event thermostat response (Id: d6fcc8ee-acdf-4166-ba69-797bcbd6b127) with status 201
+2024-02-14 23:01:00,740 - basicLogger - INFO - Received event lighting request with a trace id of a09cdf80-9b31-44b8-86b4-1082cbc2f63a
+2024-02-14 23:01:00,898 - basicLogger - INFO - Returned event thermostat response (Id: 305022fd-fa4d-4c91-9d04-70671b21f89e) with status 201
+2024-02-14 23:01:00,904 - basicLogger - INFO - Received event lighting request with a trace id of 8ae0e13c-fac1-4198-886b-dc632ded66ac
+2024-02-14 23:01:01,067 - basicLogger - INFO - Returned event thermostat response (Id: 3c84cf7c-8225-4e17-b276-e163c05ce9b3) with status 201
+2024-02-14 23:01:01,076 - basicLogger - INFO - Received event lighting request with a trace id of e9e05af7-7a32-48e0-af7f-481017c5ba98
+2024-02-14 23:01:01,296 - basicLogger - INFO - Returned event thermostat response (Id: ba23193d-c8fa-4fe2-8d90-4c853abb9e2f) with status 201
+2024-02-14 23:01:01,302 - basicLogger - INFO - Received event lighting request with a trace id of b20b717b-b89e-4a2c-a430-9d275a6df46d
+2024-02-14 23:01:01,504 - basicLogger - INFO - Returned event thermostat response (Id: 27a954df-db71-4066-be0e-516d06e999ab) with status 201
+2024-02-14 23:01:01,510 - basicLogger - INFO - Received event lighting request with a trace id of fe7bb327-b8bd-429f-8ffa-e7f6ab1a3257
+2024-02-14 23:01:02,816 - basicLogger - INFO - Returned event lighting response (Id: a09cdf80-9b31-44b8-86b4-1082cbc2f63a) with status 201
+2024-02-14 23:01:02,825 - basicLogger - INFO - Received event thermostat request with a trace id of 3cbd8e50-570d-46da-9d3d-123470d6c595
+2024-02-14 23:01:02,984 - basicLogger - INFO - Returned event lighting response (Id: 8ae0e13c-fac1-4198-886b-dc632ded66ac) with status 201
+2024-02-14 23:01:02,991 - basicLogger - INFO - Received event thermostat request with a trace id of 3b2bb434-c5b7-4101-b18a-df34a330f2bc
+2024-02-14 23:01:03,153 - basicLogger - INFO - Returned event lighting response (Id: e9e05af7-7a32-48e0-af7f-481017c5ba98) with status 201
+2024-02-14 23:01:03,160 - basicLogger - INFO - Received event thermostat request with a trace id of 81d74c28-2227-44d4-ade1-208433ed9ccc
+2024-02-14 23:01:03,361 - basicLogger - INFO - Returned event lighting response (Id: b20b717b-b89e-4a2c-a430-9d275a6df46d) with status 201
+2024-02-14 23:01:03,574 - basicLogger - INFO - Returned event lighting response (Id: fe7bb327-b8bd-429f-8ffa-e7f6ab1a3257) with status 201
+2024-02-14 23:01:04,890 - basicLogger - INFO - Returned event thermostat response (Id: 3cbd8e50-570d-46da-9d3d-123470d6c595) with status 201
+2024-02-14 23:01:05,044 - basicLogger - INFO - Returned event thermostat response (Id: 3b2bb434-c5b7-4101-b18a-df34a330f2bc) with status 201
+2024-02-14 23:01:05,220 - basicLogger - INFO - Returned event thermostat response (Id: 81d74c28-2227-44d4-ade1-208433ed9ccc) with status 201
+2024-02-14 23:18:17,612 - basicLogger - INFO - Received event lighting request with a trace id of fdc4d43c-c1de-4215-9f9d-40552d998d20
+2024-02-14 23:18:17,813 - basicLogger - INFO - Received event lighting request with a trace id of 996cd3bb-c6cc-4611-95b9-c013dc7e9995
+2024-02-14 23:18:18,012 - basicLogger - INFO - Received event lighting request with a trace id of e42efa97-aef0-4f78-ad33-0d0f54137fba
+2024-02-14 23:18:18,210 - basicLogger - INFO - Received event lighting request with a trace id of b31eba30-7587-41cf-b9b3-71e6aaf0d301
+2024-02-14 23:18:18,411 - basicLogger - INFO - Received event lighting request with a trace id of a907ce8a-8329-4fda-8b14-2013c429a8cb
+2024-02-14 23:18:19,726 - basicLogger - INFO - Returned event lighting response (Id: fdc4d43c-c1de-4215-9f9d-40552d998d20) with status 201
+2024-02-14 23:18:19,731 - basicLogger - INFO - Received event thermostat request with a trace id of d76c4c96-8af6-4169-9d45-efba64d74cd1
+2024-02-14 23:18:19,866 - basicLogger - INFO - Returned event lighting response (Id: 996cd3bb-c6cc-4611-95b9-c013dc7e9995) with status 201
+2024-02-14 23:18:19,871 - basicLogger - INFO - Received event thermostat request with a trace id of 92aa8668-cab5-47b2-bd5f-cf18b55886c9
+2024-02-14 23:18:20,076 - basicLogger - INFO - Returned event lighting response (Id: e42efa97-aef0-4f78-ad33-0d0f54137fba) with status 201
+2024-02-14 23:18:20,085 - basicLogger - INFO - Received event thermostat request with a trace id of 56a20d80-97bf-466f-a0f5-073e039aaebf
+2024-02-14 23:18:20,275 - basicLogger - INFO - Returned event lighting response (Id: b31eba30-7587-41cf-b9b3-71e6aaf0d301) with status 201
+2024-02-14 23:18:20,281 - basicLogger - INFO - Received event thermostat request with a trace id of a9b7ba19-0cc1-4c94-9834-7ec20d2c8156
+2024-02-14 23:18:20,461 - basicLogger - INFO - Returned event lighting response (Id: a907ce8a-8329-4fda-8b14-2013c429a8cb) with status 201
+2024-02-14 23:18:20,469 - basicLogger - INFO - Received event thermostat request with a trace id of 2d6f50db-b930-4035-8733-2aabfe26394b
+2024-02-14 23:18:21,798 - basicLogger - INFO - Returned event thermostat response (Id: d76c4c96-8af6-4169-9d45-efba64d74cd1) with status 201
+2024-02-14 23:18:21,803 - basicLogger - INFO - Received event lighting request with a trace id of b77ca1dd-a671-4780-a358-546178785333
+2024-02-14 23:18:21,939 - basicLogger - INFO - Returned event thermostat response (Id: 92aa8668-cab5-47b2-bd5f-cf18b55886c9) with status 201
+2024-02-14 23:18:21,943 - basicLogger - INFO - Received event lighting request with a trace id of e6064930-d57b-478e-adfa-f364e988aa4e
+2024-02-14 23:18:22,163 - basicLogger - INFO - Returned event thermostat response (Id: 56a20d80-97bf-466f-a0f5-073e039aaebf) with status 201
+2024-02-14 23:18:22,171 - basicLogger - INFO - Received event lighting request with a trace id of 13218b0a-97f8-4391-ac61-b6c3fca210bc
+2024-02-14 23:18:22,347 - basicLogger - INFO - Returned event thermostat response (Id: a9b7ba19-0cc1-4c94-9834-7ec20d2c8156) with status 201
+2024-02-14 23:18:22,353 - basicLogger - INFO - Received event lighting request with a trace id of 12bed9fd-3cc1-47db-91b8-8c71b77294dc
+2024-02-14 23:18:22,533 - basicLogger - INFO - Returned event thermostat response (Id: 2d6f50db-b930-4035-8733-2aabfe26394b) with status 201
+2024-02-14 23:18:22,540 - basicLogger - INFO - Received event lighting request with a trace id of d3a4c52f-5bd3-4e43-9ad8-aba8b4795653
+2024-02-14 23:18:23,874 - basicLogger - INFO - Returned event lighting response (Id: b77ca1dd-a671-4780-a358-546178785333) with status 201
+2024-02-14 23:18:23,881 - basicLogger - INFO - Received event thermostat request with a trace id of 606999ca-f18d-4b6c-a826-16ba390575bc
+2024-02-14 23:18:24,010 - basicLogger - INFO - Returned event lighting response (Id: e6064930-d57b-478e-adfa-f364e988aa4e) with status 201
+2024-02-14 23:18:24,017 - basicLogger - INFO - Received event thermostat request with a trace id of 70c0044b-ee1d-4331-a418-1e5b1e93a610
+2024-02-14 23:18:24,235 - basicLogger - INFO - Returned event lighting response (Id: 13218b0a-97f8-4391-ac61-b6c3fca210bc) with status 201
+2024-02-14 23:18:24,240 - basicLogger - INFO - Received event thermostat request with a trace id of 20e86e90-228e-46bc-ab5b-3b86768d08a1
+2024-02-14 23:18:24,411 - basicLogger - INFO - Returned event lighting response (Id: 12bed9fd-3cc1-47db-91b8-8c71b77294dc) with status 201
+2024-02-14 23:18:24,418 - basicLogger - INFO - Received event thermostat request with a trace id of a9d307e0-3271-4978-92f7-b2eac4d8b895
+2024-02-14 23:18:24,601 - basicLogger - INFO - Returned event lighting response (Id: d3a4c52f-5bd3-4e43-9ad8-aba8b4795653) with status 201
+2024-02-14 23:18:24,608 - basicLogger - INFO - Received event thermostat request with a trace id of 925a5a5b-24e3-49be-8715-736081cf58cb
+2024-02-14 23:18:25,958 - basicLogger - INFO - Returned event thermostat response (Id: 606999ca-f18d-4b6c-a826-16ba390575bc) with status 201
+2024-02-14 23:18:25,967 - basicLogger - INFO - Received event lighting request with a trace id of b3af60cf-c562-4249-adf8-6f42206b3a89
+2024-02-14 23:18:26,096 - basicLogger - INFO - Returned event thermostat response (Id: 70c0044b-ee1d-4331-a418-1e5b1e93a610) with status 201
+2024-02-14 23:18:26,106 - basicLogger - INFO - Received event lighting request with a trace id of c6f92fad-2b96-4c4b-9483-98ca264d465b
+2024-02-14 23:18:26,313 - basicLogger - INFO - Returned event thermostat response (Id: 20e86e90-228e-46bc-ab5b-3b86768d08a1) with status 201
+2024-02-14 23:18:26,323 - basicLogger - INFO - Received event lighting request with a trace id of a01f4679-484d-4b15-a430-be61008d6112
+2024-02-14 23:18:26,475 - basicLogger - INFO - Returned event thermostat response (Id: a9d307e0-3271-4978-92f7-b2eac4d8b895) with status 201
+2024-02-14 23:18:26,480 - basicLogger - INFO - Received event lighting request with a trace id of 53624570-05d0-4f94-b6d1-fa08540dd7bb
+2024-02-14 23:18:26,670 - basicLogger - INFO - Returned event thermostat response (Id: 925a5a5b-24e3-49be-8715-736081cf58cb) with status 201
+2024-02-14 23:18:26,677 - basicLogger - INFO - Received event lighting request with a trace id of 79098d39-dcd1-4cf5-b9c0-e9a1faad0669
+2024-02-14 23:18:28,024 - basicLogger - INFO - Returned event lighting response (Id: b3af60cf-c562-4249-adf8-6f42206b3a89) with status 201
+2024-02-14 23:18:28,031 - basicLogger - INFO - Received event thermostat request with a trace id of 4366b7c0-41b2-4ab3-9221-11153d2ef1df
+2024-02-14 23:18:28,184 - basicLogger - INFO - Returned event lighting response (Id: c6f92fad-2b96-4c4b-9483-98ca264d465b) with status 201
+2024-02-14 23:18:28,191 - basicLogger - INFO - Received event thermostat request with a trace id of bf362f79-12b0-4a7d-b5ca-42492488efb7
+2024-02-14 23:18:28,385 - basicLogger - INFO - Returned event lighting response (Id: a01f4679-484d-4b15-a430-be61008d6112) with status 201
+2024-02-14 23:18:28,392 - basicLogger - INFO - Received event thermostat request with a trace id of 59be38bc-3d32-4a4e-a502-90d4e6fc734d
+2024-02-14 23:18:28,524 - basicLogger - INFO - Returned event lighting response (Id: 53624570-05d0-4f94-b6d1-fa08540dd7bb) with status 201
+2024-02-14 23:18:28,530 - basicLogger - INFO - Received event thermostat request with a trace id of a5e3c766-1edb-41a5-9352-08a931629c22
+2024-02-14 23:18:28,741 - basicLogger - INFO - Returned event lighting response (Id: 79098d39-dcd1-4cf5-b9c0-e9a1faad0669) with status 201
+2024-02-14 23:18:28,749 - basicLogger - INFO - Received event thermostat request with a trace id of 939bc8f4-c4b5-4ece-98f5-c21887717e33
+2024-02-14 23:18:30,083 - basicLogger - INFO - Returned event thermostat response (Id: 4366b7c0-41b2-4ab3-9221-11153d2ef1df) with status 201
+2024-02-14 23:18:30,089 - basicLogger - INFO - Received event lighting request with a trace id of 9b5c68a9-b434-46c4-84c5-379ba6944c43
+2024-02-14 23:18:30,248 - basicLogger - INFO - Returned event thermostat response (Id: bf362f79-12b0-4a7d-b5ca-42492488efb7) with status 201
+2024-02-14 23:18:30,254 - basicLogger - INFO - Received event lighting request with a trace id of 34f2b3fb-ab25-4718-a660-114ff3658292
+2024-02-14 23:18:30,437 - basicLogger - INFO - Returned event thermostat response (Id: 59be38bc-3d32-4a4e-a502-90d4e6fc734d) with status 201
+2024-02-14 23:18:30,443 - basicLogger - INFO - Received event lighting request with a trace id of e42e9717-4b75-444f-82a2-2ba7a8cda3a2
+2024-02-14 23:18:30,592 - basicLogger - INFO - Returned event thermostat response (Id: a5e3c766-1edb-41a5-9352-08a931629c22) with status 201
+2024-02-14 23:18:30,599 - basicLogger - INFO - Received event lighting request with a trace id of 5729c0ed-348f-4aa5-9cb2-26d339eb4b35
+2024-02-14 23:18:30,792 - basicLogger - INFO - Returned event thermostat response (Id: 939bc8f4-c4b5-4ece-98f5-c21887717e33) with status 201
+2024-02-14 23:18:30,797 - basicLogger - INFO - Received event lighting request with a trace id of 73d3ee03-6382-4d8e-86f1-8349f7ebca3c
+2024-02-14 23:18:32,131 - basicLogger - INFO - Returned event lighting response (Id: 9b5c68a9-b434-46c4-84c5-379ba6944c43) with status 201
+2024-02-14 23:18:32,322 - basicLogger - INFO - Returned event lighting response (Id: 34f2b3fb-ab25-4718-a660-114ff3658292) with status 201
+2024-02-14 23:18:32,509 - basicLogger - INFO - Returned event lighting response (Id: e42e9717-4b75-444f-82a2-2ba7a8cda3a2) with status 201
+2024-02-14 23:18:32,643 - basicLogger - INFO - Returned event lighting response (Id: 5729c0ed-348f-4aa5-9cb2-26d339eb4b35) with status 201
+2024-02-14 23:18:32,862 - basicLogger - INFO - Returned event lighting response (Id: 73d3ee03-6382-4d8e-86f1-8349f7ebca3c) with status 201
+2024-03-26 20:39:43,347 - basicLogger - INFO - Received event thermostat request with a trace id of 55ef4d4b-7c32-4fb8-b5e1-e1f0494574d7
+2024-03-26 20:39:45,415 - basicLogger - INFO - Returned event thermostat response (Id: 55ef4d4b-7c32-4fb8-b5e1-e1f0494574d7) with status 404
+2024-03-26 20:40:20,867 - basicLogger - INFO - Received event thermostat request with a trace id of aba82bac-8ce8-4cdf-a4a2-a3241de8dcba
+2024-03-26 20:40:22,923 - basicLogger - INFO - Returned event thermostat response (Id: aba82bac-8ce8-4cdf-a4a2-a3241de8dcba) with status 404
