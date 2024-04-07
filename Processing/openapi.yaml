@@ -11,7 +11,7 @@ paths:
       tags:
         - Statistics
       summary: Retrieve the latest aggregated statistics for thermostat and lighting events.
-      operationId: get_stats
+      operationId: app.get_stats
       responses:
         '200':
           description: Successfully retrieved the latest statistics.
