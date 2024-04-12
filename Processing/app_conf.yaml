@@ -1,0 +1,7 @@
+version: 1
+database:
+  connection_string: "stats.sqlite" # Update this with your actual connection string
+eventstore:
+  url: "http://localhost:8090" # Update this with your actual Event Store URL
+scheduler:
+  period_sec: 10

@@ -1,0 +1,46 @@
+openapi: 3.0.0
+info:
+  title: Home Automation Events Statistics API
+  description: This API provides aggregated statistics for home automation events, including thermostat and lighting events.
+  version: "1.0.0"
+servers:
+  - url: /
+paths:
+  /stats:
+    get:
+      tags:
+        - Statistics
+      summary: Retrieve the latest aggregated statistics for thermostat and lighting events.
+      operationId: get_stats
+      responses:
+        '200':
+          description: Successfully retrieved the latest statistics.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/StatisticsResponse'
+        '404':
+          description: No statistics found.
+components:
+  schemas:
+    StatisticsResponse:
+      type: object
+      properties:
+        number_of_thermostat_events:
+          type: integer
+          example: 100
+        number_of_lighting_events:
+          type: integer
+          example: 150
+        average_temperature:
+          type: number
+          format: float
+          example: 21.5
+        average_light_intensity:
+          type: number
+          format: float
+          example: 300.5
+        last_updated:
+          type: string
+          format: date-time
+          example: "2024-04-12T08:00:00Z"
