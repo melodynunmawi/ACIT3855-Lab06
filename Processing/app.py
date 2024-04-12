@@ -12,6 +12,7 @@ from stats import Stats  # Ensure this is updated to handle new event types
 from apscheduler.schedulers.background import BackgroundScheduler
 from sqlalchemy import create_engine, desc  # Added 'desc' here
 from sqlalchemy.orm import sessionmaker
+from pytz import utc
 
 # Load configuration
 with open('app_conf.yaml', 'r') as f:
@@ -99,11 +100,12 @@ def get_stats():
         return NoContent, 404
 
 
+
 def init_scheduler():
-    """Initialize the scheduler."""
-    sched = BackgroundScheduler(daemon=True)
+    sched = BackgroundScheduler(daemon=True, timezone=utc)
     sched.add_job(populate_stats, 'interval', seconds=app_config['scheduler']['period_sec'])
     sched.start()
+
 
 if __name__ == "__main__":
     init_scheduler()
